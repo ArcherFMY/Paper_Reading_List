@@ -1,4 +1,5 @@
 # Recommended Papers
+- The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 ## Topics
 - [Saliency](#saliency)
 - [Object Detection](#object-detection)
