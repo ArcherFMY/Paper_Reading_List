@@ -1,6 +1,7 @@
 # Recommended Papers
 - Saliency:
-	- __Visual Saliency Based on Multiscale Deep Features__, [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu, *__CVPR 2015__*. [[project page]](https://sites.google.com/site/ligb86/mdfsaliency/)
+	- __Visual Saliency Based on Multiscale Deep Features__
+		- [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu, *__CVPR 2015__*. [[project page]](https://sites.google.com/site/ligb86/mdfsaliency/)
 	- __Saliency Detection by Multi-context Deep Learning__, [Rui Zhao](http://www.ee.cuhk.edu.hk/~rzhao/), Wanli Ouyang, Hongsheng Li, Xiaogang Wang, *__CVPR 2015__*. [[paper]](http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf) [[code]](https://github.com/Robert0812/deepsaldet)
 	- __Deep Networks for Saliency Detection via Local Estimation and Global Search__, Lijun Wang, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang, *__CVPR 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Deep_Networks_for_2015_CVPR_paper.pdf)
 	- __Deep Learning based Salient Object Detection__, [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu, *__CVPR 2016__*. [[project page]](http://i.cs.hku.hk/~gbli/deep_saliency.html)
