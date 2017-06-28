@@ -6,7 +6,7 @@
 - [Semantic Segmentation & Scene Parsing](#semantic-segmentation-scene-parsing)
 - [Edge Detection](#edge-detection)
 - [Pose Estimation](#pose-estimation)
-## List
+## Papers
 Paper list.
 ### Saliency
 - __Visual Saliency Based on Multiscale Deep Features__
