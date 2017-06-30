@@ -3,9 +3,14 @@
 ## Topics
 - [Saliency](#saliency)
 - [Object Detection](#object-detection)
+- [Object Localization](#object-localization)
 - [Semantic Segmentation & Scene Parsing](#semantic-segmentation-scene-parsing)
 - [Edge Detection](#edge-detection)
 - [Pose Estimation](#pose-estimation)
+- [Semantic Matching](#semantic-matching)
+- [Super Resolution](#super-resolution)
+- [Image Classification](#image-classification)
+- [Others](#others)
 ## Papers
 Paper list.
 ### Saliency
@@ -55,12 +60,30 @@ Paper list.
 	- Tsung-Yi Lin, Piotr Dollár, Ross Girshick, [Kaiming He](http://kaiminghe.com/), Bharath Hariharan, and Serge Belongie, *__CVPR 2017__*. [[paper]](https://arxiv.org/pdf/1612.03144.pdf)
 - __Mask R-CNN__
 	- Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, *__Tech Report__*. [[paper]](https://arxiv.org/abs/1703.06870)
+- __A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection__
+	- Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03414) [[git-hub]](https://github.com/xiaolonw/adversarial-frcnn)
+- __Multiple Instance Detection Network with Online Instance Classifier Refinement__
+	- Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.00138)
 	
+### Object Localization
+- __Simultaneous Detection and Segmentation__
+	- Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik, *__ECCV 2014__*. [[paper]](https://arxiv.org/abs/1407.1808)
+- __Deep Self-Taught Learning for Weakly Supervised Object Localization__
+	- Zequn Jie, Yunchao Wei, Xiaojie Jin, Jiashi Feng, Wei Liu, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.05188)
+- __Learning Detection with Diverse Proposals__
+	- Samaneh Azadi, Jiashi Feng, Trevor Darrell, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03533)
+
 ### Semantic Segmentation & Scene Parsing
 - __Fully Convolutional Networks for Semantic Segmentation__
 	- Jonathan Long, Evan Shelhamer, Trevor Darrell, *__CVPR 2015__*. [[paper]](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+- __Learning to Segment Object Candidates__
+	- Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar, *__NIPS 2015__*. [[paper]](http://papers.nips.cc/paper/5852-learning-to-segment-object-candidates.pdf)
 - __Learning to Refine Object Segments__
-	- Pedro O. Pinheiro , Tsung-Yi Lin , Ronan Collobert, Piotr Doll ́ar, *__ECCV 2016__*. [[paper]](https://arxiv.org/pdf/1603.08695.pdf)
+	- Pedro O. Pinheiro , Tsung-Yi Lin , Ronan Collobert, Piotr Doll ́ar, *__arXiv 1603.08695__*. [[paper]](https://arxiv.org/pdf/1603.08695.pdf)
+- __Instance-sensitive Fully Convolutional Networks__
+	- Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, Jian Sun, *__arXiv 1603.08678__*. [[paper]](https://arxiv.org/abs/1603.08678) 
+- __Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade__
+	- Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang, *__CVPR 2016__*. [[paper]](https://arxiv.org/abs/1704.01344)
 - __RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation__
 	- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid, *__arXiv 1611.06612__*. [[paper]](https://arxiv.org/abs/1611.06612)
 - __Pyramid Scene Parsing Network__
@@ -69,7 +92,31 @@ Paper list.
 ### Edge Detection
 - __Holistically-Nested Edge Detection__
 	- Saining Xie, Zhuowen Tu, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
-
+- __Richer Convolutional Features for Edge Detection__
+	- Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai, *__CVPR 2017__*. [[paper]](Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai)
+	
 ### Pose Estimation
 - __Multi-Context Attention for Human Pose Estimation__
 	- [Xiao Chu](http://www.ee.cuhk.edu.hk/~xchu/), Wei Yang, [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/), Cheng Ma, Alan L. Yuille, [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1702.07432) [[git-hub]](https://github.com/bearpaw/pose-attention)
+- __Stacked Hourglass Networks for Human Pose Estimation__
+	- Alejandro Newell, Kaiyu Yang, and Jia Deng, *__ECCV 2016__*. [[paper]](https://arxiv.org/abs/1603.06937)
+
+### Semantic Matching
+- __AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching__
+	- David Novotny, DianeLarlus, Andrea Vedaldi, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.04749)
+	
+### Super Resolution
+- __Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution__
+	- Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang, *__CVPR 2017__*. [[project page]](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)
+
+### Image Classification
+- __Residual Attention Network for Image Classification__
+	- Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.06904)
+- __Aggregated Residual Transformations for Deep Neural Networks__
+	- Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.05431) [[git-hub]](https://github.com/facebookresearch/ResNeXt)
+- __Deep Residual Learning for Image Recognition__
+	- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1512.03385) [[git-hub]](https://github.com/KaimingHe/deep-residual-networks)
+	
+### Others
+- __Quality Aware Network for Set to Set Recognition__
+	- Yu Liu, Junjie Yan, Wanli Ouyang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03373)
