@@ -28,6 +28,10 @@ Paper list.
 	![legs](data/LEGS.png)
 	- Lijun Wang, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang, *__CVPR 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Deep_Networks_for_2015_CVPR_paper.pdf)
 	
+- __DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection__
+	![dhs](data/DHS.png)
+	- [Nian Liu](https://sites.google.com/site/liunian228/), Junwei Han, CVPR 2016. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf) [code: [googel drive](https://drive.google.com/file/d/0B1sbejbIJIW3RlJJY1NNNkFydEU/view) [baidu yun](http://pan.baidu.com/s/1jIm8cfk)]
+	
 	
 - __Deep Contrast Learning for Salient Object Detection__
 	![dcl](data/DCL.png)
