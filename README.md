@@ -270,33 +270,79 @@ Paper list.
 	
 	
 ### Edge Detection
+
 - __Holistically-Nested Edge Detection__
+
+	![hed](data/HED.png)
+
 	- Saining Xie, Zhuowen Tu, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
+	
+	
 - __Richer Convolutional Features for Edge Detection__
-	- Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai, *__CVPR 2017__*. [[paper]](Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai)
+
+	![rcf](data/RCF.png)
+
+	- Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1612.02103)
 	
 ### Pose Estimation
-- __Multi-Context Attention for Human Pose Estimation__
-	- [Xiao Chu](http://www.ee.cuhk.edu.hk/~xchu/), Wei Yang, [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/), Cheng Ma, Alan L. Yuille, [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1702.07432) [[git-hub]](https://github.com/bearpaw/pose-attention)
+
 - __Stacked Hourglass Networks for Human Pose Estimation__
+
+	![hourglass](data/Hourglass.png)
+
 	- Alejandro Newell, Kaiyu Yang, and Jia Deng, *__ECCV 2016__*. [[paper]](https://arxiv.org/abs/1603.06937)
+	
+	
+- __Multi-Context Attention for Human Pose Estimation__
+
+	![mca](data/MCA.png)
+
+	- [Xiao Chu](http://www.ee.cuhk.edu.hk/~xchu/), Wei Yang, [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/), Cheng Ma, Alan L. Yuille, [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1702.07432) [[git-hub]](https://github.com/bearpaw/pose-attention)
+	
 
 ### Semantic Matching
+
 - __AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching__
+
+	![anchornet](data/AnchorNet.png)
+	
 	- David Novotny, DianeLarlus, Andrea Vedaldi, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.04749)
 	
 ### Super Resolution
+
 - __Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution__
+
+	![lapsrn](data/LapSRN.png)
+
 	- Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang, *__CVPR 2017__*. [[project page]](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)
 
 ### Image Classification
-- __Residual Attention Network for Image Classification__
-	- Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.06904)
-- __Aggregated Residual Transformations for Deep Neural Networks__
-	- Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.05431) [[git-hub]](https://github.com/facebookresearch/ResNeXt)
+
 - __Deep Residual Learning for Image Recognition__
-	- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1512.03385) [[git-hub]](https://github.com/KaimingHe/deep-residual-networks)
+
+	![resnet](data/ResNet.png)
+
+	- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, *__CVPR 2015__*. [[paper]](https://arxiv.org/abs/1512.03385) [[git-hub]](https://github.com/KaimingHe/deep-residual-networks)
+	
+	
+- __Residual Attention Network for Image Classification__
+
+	![res-attention-network](data/Res-Attention-Network.png)
+
+	- Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.06904)
+	
+	
+- __Aggregated Residual Transformations for Deep Neural Networks__
+
+	![resnext](data/ResNeXt.png)
+
+	- Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.05431) [[git-hub]](https://github.com/facebookresearch/ResNeXt)
+
 	
 ### Others
+
 - __Quality Aware Network for Set to Set Recognition__
+
+	![qan](data/QAN.png)
+
 	- Yu Liu, Junjie Yan, Wanli Ouyang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03373)
