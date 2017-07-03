@@ -119,49 +119,155 @@ Paper list.
 	
 ### Object Detection
 - __Rich feature hierarchies for accurate object detection and semantic segmentation__
+
+	![r-cnn](data/R-CNN.png)
+
 	- Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, *__CVPR 2014__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[git-hub]](https://github.com/rbgirshick/rcnn)
+	
+	
 - __Fast R-CNN__
+
+	![fast r-cnn](data/Fast-R-CNN.png)
+
 	- Ross Girshick, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [[git-hub]](https://github.com/rbgirshick/fast-rcnn)
+	
+	
 - __Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks__
+
+	![faster r-cnn](data/Faster-R-CNN.png)
+
 	- Shaoqing Ren, [Kaiming He](http://kaiminghe.com/), Ross Girshick, Jian Sun, *__NIPS 2015__*. [[paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[matlab]](https://github.com/ShaoqingRen/faster_rcnn) [[python]](https://github.com/rbgirshick/py-faster-rcnn)
+	
+	
 - __Convolutional Feature Masking for Joint Object and Stuff Segmentation__
+
+	![cfm](data/CFM.png)
+
 	- Jifeng Dai, [Kaiming He](http://kaiminghe.com/), Jian Sun, *__CVPR 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf)
+	
+	
 - __Instance-aware Semantic Segmentation via Multi-task Network Cascades__
+
+	![mnc](data/MNC.png)	
+	
 	- Jifeng Dai, [Kaiming He](http://kaiminghe.com/), Jian Sun, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf) [[git-hub]](https://github.com/daijifeng001/MNC)
+	
+	
 - __R-FCN: Object Detection via Region-based Fully Convolutional Networks__
+
+	![region-fcn](data/Region-FCN.png)
+
 	- Jifeng Dai, Yi Li,  [Kaiming He](http://kaiminghe.com/), Jian Sun, *__NIPS 2016__*. [[paper]](https://arxiv.org/abs/1605.06409) [[git-hub]](https://github.com/daijifeng001/R-FCN)
+	
+	
 - __Feature Pyramid Networks for Object Detection__
+
+	![fpn](data/FPN.png)
+
 	- Tsung-Yi Lin, Piotr Dollár, Ross Girshick, [Kaiming He](http://kaiminghe.com/), Bharath Hariharan, and Serge Belongie, *__CVPR 2017__*. [[paper]](https://arxiv.org/pdf/1612.03144.pdf)
+	
+	
 - __Mask R-CNN__
+
+	![mask r-cnn](data/Mask-R-CNN.png)
+
 	- Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, *__Tech Report__*. [[paper]](https://arxiv.org/abs/1703.06870)
+	
+	
 - __A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection__
+
+	![a-fast-r-cnn](data/A-Fast-R-CNN.png)
+
 	- Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03414) [[git-hub]](https://github.com/xiaolonw/adversarial-frcnn)
+	
+	
 - __Multiple Instance Detection Network with Online Instance Classifier Refinement__
+
+	![midn](data/MIDN.png)
+
 	- Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.00138)
 	
+	
 ### Object Localization
+
 - __Simultaneous Detection and Segmentation__
+
+	![sds](data/SDS.png)
+
 	- Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik, *__ECCV 2014__*. [[paper]](https://arxiv.org/abs/1407.1808)
+	
+	
 - __Deep Self-Taught Learning for Weakly Supervised Object Localization__
+
+	![wsol](data/WSOL.png)
+
 	- Zequn Jie, Yunchao Wei, Xiaojie Jin, Jiashi Feng, Wei Liu, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.05188)
+	
+	
 - __Learning Detection with Diverse Proposals__
+
+	![lddp](data/LDDP.png)
+
 	- Samaneh Azadi, Jiashi Feng, Trevor Darrell, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03533)
+	
 
 ### Semantic Segmentation & Scene Parsing
+
 - __Fully Convolutional Networks for Semantic Segmentation__
+
+	![fcn](data/FCN.png)
+
 	- Jonathan Long, Evan Shelhamer, Trevor Darrell, *__CVPR 2015__*. [[paper]](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+	
+	
 - __Learning to Segment Object Candidates__
+
+	![lsoc](data/LSOC.png)
+
 	- Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar, *__NIPS 2015__*. [[paper]](http://papers.nips.cc/paper/5852-learning-to-segment-object-candidates.pdf)
+	
+	
 - __Learning to Refine Object Segments__
+
+	![lros](data/LROS.png)
+
 	- Pedro O. Pinheiro , Tsung-Yi Lin , Ronan Collobert, Piotr Doll ́ar, *__arXiv 1603.08695__*. [[paper]](https://arxiv.org/pdf/1603.08695.pdf)
+	
+	
 - __Instance-sensitive Fully Convolutional Networks__
+
+	![isfcn](data/ISFCN.png)
+
 	- Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, Jian Sun, *__arXiv 1603.08678__*. [[paper]](https://arxiv.org/abs/1603.08678) 
+	
+	
 - __Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade__
+
+	![not all pixels are equal](data/Not-All-Pixels-Are-Equal.png)
+
 	- Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang, *__CVPR 2016__*. [[paper]](https://arxiv.org/abs/1704.01344)
+	
+	
 - __RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation__
+
+	![refinenet](data/RefineNet.png)
+
 	- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid, *__arXiv 1611.06612__*. [[paper]](https://arxiv.org/abs/1611.06612)
+	
+	
 - __Pyramid Scene Parsing Network__
+
+	![pspnet](data/PSPNet.png)
+
 	- Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1612.01105) [[git-hub]](https://github.com/hszhao/PSPNet)
+	
+	
+- __Fully Convolutional Instance-aware Semantic Segmentation__
+
+	![fcis](data/FCIS.png)
+
+	- Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei, *___CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.07709) [[git-hub]](https://github.com/msracver/FCIS)
+	
 	
 ### Edge Detection
 - __Holistically-Nested Edge Detection__
