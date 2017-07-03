@@ -20,6 +20,8 @@ Paper list.
 	- [Rui Zhao](http://www.ee.cuhk.edu.hk/~rzhao/), Wanli Ouyang, Hongsheng Li, Xiaogang Wang, *__CVPR 2015__*. [[paper]](http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf) [[code]](https://github.com/Robert0812/deepsaldet)
 - __Deep Networks for Saliency Detection via Local Estimation and Global Search__
 	- Lijun Wang, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang, *__CVPR 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Deep_Networks_for_2015_CVPR_paper.pdf)
+- __DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection__
+	- [Nian Liu](https://sites.google.com/site/liunian228/), Junwei Han, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf) [code: [googel drive](https://drive.google.com/file/d/0B1sbejbIJIW3RlJJY1NNNkFydEU/view) [baidu yun](http://pan.baidu.com/s/1jIm8cfk)]
 - __Deep Learning based Salient Object Detection__
 	- [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu, *__CVPR 2016__*. [[project page]](http://i.cs.hku.hk/~gbli/deep_saliency.html)
 - __Saliency Unified: A Deep Architecture for Simultaneous Eye Fixation Prediction and Salient Object Segmentation__
