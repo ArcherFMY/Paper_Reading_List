@@ -346,3 +346,15 @@ Paper list.
 	![qan](data/QAN.png)
 
 	- Yu Liu, Junjie Yan, Wanli Ouyang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03373)
+	
+- __Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation__
+
+	![continuous crfs](data/Continuous-CRFs.png)
+	
+	- Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.02157)
+	
+- __Learning Cross-Modal Deep Representations for Robust Pedestrian Detection__
+
+	![cmt](data/CMT.png)
+	
+	- Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang, Nicu Sebe, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.02431)
