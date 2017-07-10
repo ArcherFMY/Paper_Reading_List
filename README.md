@@ -118,8 +118,8 @@ Paper list.
 	
 	- Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , and Xiang Ruan, *__CVPR 2017__*. [[paper]](http://saliencydetection.net/duts/download/camera_ready.pdf)
 
-### Object Tracking
-[Recommended Homepage](https://github.com/foolwood/benchmark_results)
+### Visual Object Tracking
+[Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
 	
 ### Object Detection
 - __Rich feature hierarchies for accurate object detection and semantic segmentation__
