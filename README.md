@@ -1,7 +1,8 @@
 # Recommended Papers
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 ## Topics
-- [Saliency](#saliency)
+- [Salient Object Detection](#salient-object-detection)
+- [Object Tracking](#object-tracking)
 - [Object Detection](#object-detection)
 - [Object Localization](#object-localization)
 - [Semantic Segmentation & Scene Parsing](#semantic-segmentation-scene-parsing)
@@ -13,7 +14,7 @@
 - [Others](#others)
 ## Papers
 Paper list.
-### Saliency
+### Salient Object Detection
 - __Visual Saliency Based on Multiscale Deep Features__
 
 	![mdf](data/MDF.png)
@@ -116,6 +117,9 @@ Paper list.
 	![wss](data/WSS.png)
 	
 	- Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , and Xiang Ruan, *__CVPR 2017__*. [[paper]](http://saliencydetection.net/duts/download/camera_ready.pdf)
+
+### Object Tracking
+[Recommended Homepage](https://github.com/foolwood/benchmark_results)
 	
 ### Object Detection
 - __Rich feature hierarchies for accurate object detection and semantic segmentation__
