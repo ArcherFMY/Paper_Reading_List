@@ -2,7 +2,7 @@
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 ## Topics
 - [Salient Object Detection](#salient-object-detection)
-- [Object Tracking](#object-tracking)
+- [Visual Object Tracking](#visual-object-tracking)
 - [Object Detection](#object-detection)
 - [Object Localization](#object-localization)
 - [Semantic Segmentation & Scene Parsing](#semantic-segmentation-scene-parsing)
