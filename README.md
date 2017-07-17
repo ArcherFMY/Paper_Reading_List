@@ -95,7 +95,7 @@ Paper list.
 
 	![dss](data/DSS.png)
 	
-	- Qibin Hou, [Ming-Ming Cheng](http://mmcheng.net/cmm/), Xiaowei Hu, Ali Borji, [Zhuowen Tu](http://pages.ucsd.edu/~ztu/), Philip Torr, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.04849)
+	- Qibin Hou, [Ming-Ming Cheng](http://mmcheng.net/cmm/), Xiaowei Hu, Ali Borji, [Zhuowen Tu](http://pages.ucsd.edu/~ztu/), Philip Torr, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.04849) [[git-hub]](https://github.com/Andrew-Qibin/DSS)
 	
 	
 - __Non-Local Deep Features for Salient Object Detection__
