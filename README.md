@@ -237,6 +237,20 @@ Paper list.
 
 	- Pedro O. Pinheiro , Tsung-Yi Lin , Ronan Collobert, Piotr Doll ́ar, *__arXiv 1603.08695__*. [[paper]](https://arxiv.org/pdf/1603.08695.pdf)
 	
+
+- __Conditional Random Fields as Recurrent Neural Networks__
+
+	![crfrnn](data/CRFRNN.png)
+	
+	- Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, ZhiZhong Su, Dalong Du, Chang Huang, and Philip H. S. Torr, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Conditional_Random_Fields_ICCV_2015_paper.html)
+
+
+- __Learning Deconvolution Network for Semantic Segmentation__
+
+	![ldn](data/LDN.png)
+	
+	- Heonwoo Noh, Seunghoon Hong, Bohyung Han, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.html)
+	
 	
 - __Instance-sensitive Fully Convolutional Networks__
 
@@ -244,6 +258,12 @@ Paper list.
 
 	- Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, Jian Sun, *__arXiv 1603.08678__*. [[paper]](https://arxiv.org/abs/1603.08678) 
 	
+
+- __Attention to Scale: Scale-aware Semantic Image Segmentation__
+
+	![ssis](data/SSIS.png)
+	
+	- Liang-Chieh Chen, Yi Yang, Jiang Wang, Wei Xu, Alan L. Yuille, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Attention_to_Scale_CVPR_2016_paper.html)
 	
 - __Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade__
 
@@ -265,6 +285,12 @@ Paper list.
 
 	- Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1612.01105) [[git-hub]](https://github.com/hszhao/PSPNet)
 	
+
+- __Dilated Residual Networks__
+
+	![drn](data/DRN.png)
+	
+	- Fisher Yu, Vladlen Koltun, Thomas Funkhouser, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1705.09914)
 	
 - __Fully Convolutional Instance-aware Semantic Segmentation__
 
@@ -287,6 +313,13 @@ Paper list.
 	![rcf](data/RCF.png)
 
 	- Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1612.02103)
+	
+
+- __CASENet: Deep Category-Aware Semantic Edge Detection__
+
+	![casenet](data/CASENet.png)
+	
+	- Zhiding Yu, Chen Feng, Ming-Yu Liu, Srikumar Ramalingam, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1705.09759)
 	
 ### Pose Estimation
 
@@ -344,7 +377,12 @@ Paper list.
 
 	
 ### Others
+- __SRN：Side-output Residual Network for Object Symmetry Detection in the Wild__
 
+	![srn](data/SRN.png)
+	
+	- Wei Ke, Jie Chen, Jianbin Jiao, Guoying Zhao and Qixiang Ye, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1703.02243)
+	
 - __Quality Aware Network for Set to Set Recognition__
 
 	![qan](data/QAN.png)
