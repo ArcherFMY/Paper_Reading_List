@@ -5,7 +5,7 @@
 - [Visual Object Tracking](#visual-object-tracking)
 - [Object Detection](#object-detection)
 - [Object Localization](#object-localization)
-- [Semantic Segmentation & Scene Parsing](#semantic-segmentation-scene-parsing)
+- [Semantic Segmentation and Scene Parsing](#semantic-segmentation-and-scene-parsing)
 - [Edge Detection](#edge-detection)
 - [Pose Estimation](#pose-estimation)
 - [Semantic Matching](#semantic-matching)
@@ -261,7 +261,7 @@ Paper list.
     </thead>
 </table>	
 
-### Semantic Segmentation & Scene Parsing
+### Semantic Segmentation and Scene Parsing
 
 <table>
     <thead>
