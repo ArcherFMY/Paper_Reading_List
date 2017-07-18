@@ -16,17 +16,16 @@
 Paper list.
 ### Salient Object Detection
 
-| __Visual Saliency Based on Multiscale Deep Features__ |  Author    | Pub.      | Links |
+| <font color=#0099ff > __Visual Saliency Based on Multiscale Deep Features__ |  Author    | Pub.      | Links |
 | -------------------       | ------------------ | ------------------ | ------------------ | 
-| ![mcdl](data/MDF.png)                | [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu  | *__CVPR 2015__*            | [[project page]](https://sites.google.com/site/ligb86/mdfsaliency/) |
+| ![mcdl](data/MDF.png =200x200)                | [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu  | *__CVPR 2015__*            | [[project page]](https://sites.google.com/site/ligb86/mdfsaliency/) |
 
-	
-- __Saliency Detection by Multi-context Deep Learning__
 
-	![mcdl](data/MCDL.png)
+| <font color=#0099ff > __Saliency Detection by Multi-context Deep Learning__ |  Author    | Pub.      | Links |
+| -------------------       | ------------------ | ------------------ | ------------------ | 
+| ![mcdl](data/MCDL.png =200x200)                | [Rui Zhao](http://www.ee.cuhk.edu.hk/~rzhao/), Wanli Ouyang, Hongsheng Li, Xiaogang Wang  | *__CVPR 2015__*            | [[paper]](http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf) [[code]](https://github.com/Robert0812/deepsaldet) |
 	
-	- [Rui Zhao](http://www.ee.cuhk.edu.hk/~rzhao/), Wanli Ouyang, Hongsheng Li, Xiaogang Wang, *__CVPR 2015__*. [[paper]](http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf) [[code]](https://github.com/Robert0812/deepsaldet)
-	
+
 	
 - __Deep Networks for Saliency Detection via Local Estimation and Global Search__
 
