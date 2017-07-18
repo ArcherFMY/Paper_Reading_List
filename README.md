@@ -489,7 +489,7 @@ Paper list.
             <th>CVPR 2017</th>
             <th><a href="https://arxiv.org/abs/1704.06904">paper</a></th>
         </tr> 
-        tr>
+       <tr>
             <th><img src="data/ResNeXt.png"  alt="ResNeXt" align=center /></th>
             <th>Aggregated Residual Transformations for Deep Neural Networks</th>
             <th>Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He</th>
