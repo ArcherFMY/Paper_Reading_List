@@ -49,7 +49,7 @@ Paper list.
         <tr>
             <th><img src="data/DHS.png"  alt="DHS" align=center /></th>
             <th>DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection</th>
-            <th><a href="https://sites.google.com/site/liunian228/">Nian Liu, Junwei Han</th>
+            <th><a href="https://sites.google.com/site/liunian228/">Nian Liu</a>, Junwei Han</th>
             <th>CVPR 2016</th>
             <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf">paper</a>  [code: <a href="https://drive.google.com/file/d/0B1sbejbIJIW3RlJJY1NNNkFydEU/view">google drive</a> <a href="http://pan.baidu.com/s/1jIm8cfk">baidu yun</a></th>
         </tr>
