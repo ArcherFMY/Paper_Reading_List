@@ -16,14 +16,35 @@
 Paper list.
 ### Salient Object Detection
 
-| <font color=#0099ff > __Visual Saliency Based on Multiscale Deep Features__ |  Author    | Pub.      | Links |
-| -------------------       | ------------------ | ------------------ | ------------------ | 
-| ![mdf](data/MDF.png)                | [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu  | *__CVPR 2015__*            | [[project page]](https://sites.google.com/site/ligb86/mdfsaliency/) |
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        
+        <tr>
+            <th><img src="data/MDF.png"  alt="MDF" align=center /></th>
+            <th>Visual Saliency Based on Multiscale Deep Features</th>
+            <th><a href="https://sites.google.com/site/ligb86/">Guanbin Li</a>, Yizhou Yu</th>
+            <th>CVPR 2015</th>
+            <th><a href="https://sites.google.com/site/ligb86/mdfsaliency/">project page</a></th>
+        </tr>
+        
+        <tr>
+            <th><img src="data/MCDL.png"  alt="MCDL" align=center /></th>
+            <th>Saliency Detection by Multi-context Deep Learning</th>
+            <th><a href="http://www.ee.cuhk.edu.hk/~rzhao/">Rui Zhao</a>, Wanli Ouyang, Hongsheng Li, Xiaogang Wang</th>
+            <th>CVPR 2015</th>
+            <th><a href="http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf">paper</a>  <a href="https://github.com/Robert0812/deepsaldet">code</a></th>
+        </tr>
+        
+    </thead>
+</table>
 
-
-| <font color=#0099ff > __Saliency Detection by Multi-context Deep Learning__ |  Author    | Pub.      | Links |
-| -------------------       | ------------------ | ------------------ | ------------------ | 
-| ![mcdl](data/MCDL.png)                | [Rui Zhao](http://www.ee.cuhk.edu.hk/~rzhao/), Wanli Ouyang, Hongsheng Li, Xiaogang Wang  | *__CVPR 2015__*            | [[paper]](http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf) [[code]](https://github.com/Robert0812/deepsaldet) |
 	
 
 	
