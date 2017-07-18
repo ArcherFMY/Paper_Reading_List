@@ -38,381 +38,505 @@ Paper list.
             <th><a href="http://www.ee.cuhk.edu.hk/~rzhao/">Rui Zhao</a>, Wanli Ouyang, Hongsheng Li, Xiaogang Wang</th>
             <th>CVPR 2015</th>
             <th><a href="http://www.ee.cuhk.edu.hk/~rzhao/project/deepsal_cvpr15/zhaoOLWcvpr15.pdf">paper</a>  <a href="https://github.com/Robert0812/deepsaldet">code</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/LEGS.png"  alt="LEGS" align=center /></th>
+            <th>Deep Networks for Saliency Detection via Local Estimation and Global Search</th>
+            <th>Lijun Wang, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang</th>
+            <th>CVPR 2015</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Deep_Networks_for_2015_CVPR_paper.pdf">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/DHS.png"  alt="DHS" align=center /></th>
+            <th>DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection</th>
+            <th><a href="https://sites.google.com/site/liunian228/">Nian Liu, Junwei Han</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf">paper</a>  [code: <a href="https://drive.google.com/file/d/0B1sbejbIJIW3RlJJY1NNNkFydEU/view">google drive</a> <a href="http://pan.baidu.com/s/1jIm8cfk">baidu yun</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/DCL.png"  alt="DCL" align=center /></th>
+            <th>Deep Contrast Learning for Salient Object Detection</th>
+            <th><a href="https://sites.google.com/site/ligb86/">Guanbin Li</a>, Yizhou Yu</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://i.cs.hku.hk/~gbli/deep_saliency.html">project page</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/SU.png"  alt="SU" align=center /></th>
+            <th>Saliency Unified: A Deep Architecture for Simultaneous Eye Fixation Prediction and Salient Object Segmentation</th>
+            <th>Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://val.serc.iisc.ernet.in/saliency-unified/">project page</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/ELD.png"  alt="ELD" align=center /></th>
+            <th>Deep Saliency with Encoded Low level Distance Map and High Level Features</th>
+            <th>Gayoung Lee, Yu-Wing Tai, Junmo Kim</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Deep_Saliency_With_CVPR_2016_paper.pdf">paper</a>  <a href="https://github.com/gylee1103/SaliencyELD">code</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/RAN.png"  alt="RAN" align=center /></th>
+            <th>Recurrent Attentional Networks for Saliency Detection</th>
+            <th>Jason Kuen, Zhenhua Wang, Gang Wang</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.pdf">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/DS.png"  alt="DS" align=center /></th>
+            <th>DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection</th>
+            <th>Xi Li, Liming Zhao, Lina Wei, Ming-Hsuan Yang, Fei Wu, Yueting Zhuang, Haibin Ling, Jingdong Wang</th>
+            <th>TIP 2016</th>
+            <th><a href="http://www.zhaoliming.net/research/deepsaliency">project page</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/SSD-HS.png"  alt="SSD-HS" align=center /></th>
+            <th>A Shape-Based Approach for Salient Object Detection Using Deep Learning</th>
+            <th><a href="http://www.research.cs.rutgers.edu/~jpkim/">Jongpil Kim</a>, Vladimir Pavlovic</th>
+            <th>ECCV 2016</th>
+            <th><a href="http://www.research.cs.rutgers.edu/~jpkim/papers/jpkim_eccv2016.pdf">paper</a>  <a href="http://www.research.cs.rutgers.edu/~jpkim/papers/resources/ssd_hs.tar.gz">Pre-computed Maps</a> </th>
+        </tr>
+        <tr>
+            <th><img src="data/RFCN.png"  alt="RFCN" align=center /></th>
+            <th>Saliency Detection with Recurrent Fully Convolutional Networks</th>
+            <th>Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan</th>
+            <th>ECCV 2016</th>
+            <th><a href="https://www.researchgate.net/profile/Pingping_Zhang6/publication/308278832_Saliency_Detection_with_Recurrent_Fully_Convolutional_Networks/links/584b5da208aecb6bd8c157e0/Saliency-Detection-with-Recurrent-Fully-Convolutional-Networks.pdf">paper</a> <a href="https://drive.google.com/file/d/0B5rfGpkt3dDaODFRZ0ZXZjQyWDg/view">code</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/DSS.png"  alt="DSS" align=center /></th>
+            <th>Deeply Supervised Salient Object Detection with Short Connections</th>
+            <th>Qibin Hou, <a href="http://mmcheng.net/cmm/">Ming-Ming Cheng</a>, Xiaowei Hu, Ali Borji, <a href="http://pages.ucsd.edu/~ztu/">Zhuowen Tu</a>, Philip Torr</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1611.04849">paper</a> <a href="https://github.com/Andrew-Qibin/DSS">github</a></th>
         </tr>   
+        <tr>
+            <th><img src="data/NLDF.png"  alt="NLDF" align=center /></th>
+            <th>Non-Local Deep Features for Salient Object Detection</th>
+            <th>Zhiming Luo, Akshaya Mishra , Andrew Achkar , Justin Eichel , Shaozi Li , Pierre-Marc.Jodoin</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://sites.google.com/view/zhimingluo/nldf">project page</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/MSRNet.png"  alt="MSRNet" align=center /></th>
+            <th>Instance-Level Salient Object Segmentation</th>
+            <th><a href="https://sites.google.com/site/ligb86/">Guanbin Li</a>, Yuan Xie, Liang Lin, Yizhou Yu</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/pdf/1704.03604.pdf">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/WSS.png"  alt="WSS" align=center /></th>
+            <th>Learning to Detect Salient Objects with Image-level Supervision</th>
+            <th>Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , Xiang Ruan</th>
+            <th>CVPR 2017</th>
+            <th><a href="http://saliencydetection.net/duts/download/camera_ready.pdf">paper</a>  <a href="https://github.com/scott89/WSS">github</a></th>
+        </tr>        
     </thead>
 </table>
 
 	
 
 	
-- __Deep Networks for Saliency Detection via Local Estimation and Global Search__
 
-	![legs](data/LEGS.png)
-	
-	- Lijun Wang, Huchuan Lu, Xiang Ruan, Ming-Hsuan Yang, *__CVPR 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Deep_Networks_for_2015_CVPR_paper.pdf)
-	
-- __DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection__
-
-	![dhs](data/DHS.png)
-	
-	- [Nian Liu](https://sites.google.com/site/liunian228/), Junwei Han, CVPR 2016. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf) [code: [googel drive](https://drive.google.com/file/d/0B1sbejbIJIW3RlJJY1NNNkFydEU/view) [baidu yun](http://pan.baidu.com/s/1jIm8cfk)]
-	
-	
-- __Deep Contrast Learning for Salient Object Detection__
-
-	![dcl](data/DCL.png)
-	
-	- [Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu, *__CVPR 2016__*. [[project page]](http://i.cs.hku.hk/~gbli/deep_saliency.html)
-	
-	
-- __Saliency Unified: A Deep Architecture for Simultaneous Eye Fixation Prediction and Salient Object Segmentation__
-
-	![su](data/SU.png)
-	
-	- Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu, *__CVPR 2016__*. [[project page]](http://val.serc.iisc.ernet.in/saliency-unified/)
-	
-	
-- __Deep Saliency with Encoded Low level Distance Map and High Level Features__
-
-	![eld](data/ELD.png)
-	
-	- Gayoung Lee, Yu-Wing Tai, Junmo Kim, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Deep_Saliency_With_CVPR_2016_paper.pdf) [[code]](https://github.com/gylee1103/SaliencyELD)
-	
-	
-- __Recurrent Attentional Networks for Saliency Detection__
-
-	![ran](data/RAN.png)
-	
-	- Jason Kuen, Zhenhua Wang, Gang Wang, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.pdf)
-	
-	
-- __DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection__
-
-	![ds](data/DS.png)
-	
-	- Xi Li, Liming Zhao, Lina Wei, Ming-Hsuan Yang, Fei Wu, Yueting Zhuang, Haibin Ling, Jingdong Wang, *__TIP 2016__*. [[project page]](http://www.zhaoliming.net/research/deepsaliency)
-	
-	
-- __A Shape-Based Approach for Salient Object Detection Using Deep Learning__
-
-	![ssd-hs](data/SSD-HS.png)
-	
-	- [Jongpil Kim](http://www.research.cs.rutgers.edu/~jpkim/) and Vladimir Pavlovic, *__ECCV 2016__*. [[paper]](http://www.research.cs.rutgers.edu/~jpkim/papers/jpkim_eccv2016.pdf) [[Pre-computed Maps]](http://www.research.cs.rutgers.edu/~jpkim/papers/resources/ssd_hs.tar.gz)
-	
-	
-- __Saliency Detection with Recurrent Fully Convolutional Networks__
-
-	![rfcn](data/RFCN.png)
-	
-	- Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan, *__ECCV 2016__*. [[paper]](https://www.researchgate.net/profile/Pingping_Zhang6/publication/308278832_Saliency_Detection_with_Recurrent_Fully_Convolutional_Networks/links/584b5da208aecb6bd8c157e0/Saliency-Detection-with-Recurrent-Fully-Convolutional-Networks.pdf)
-	
-	
-- __Deeply Supervised Salient Object Detection with Short Connections__
-
-	![dss](data/DSS.png)
-	
-	- Qibin Hou, [Ming-Ming Cheng](http://mmcheng.net/cmm/), Xiaowei Hu, Ali Borji, [Zhuowen Tu](http://pages.ucsd.edu/~ztu/), Philip Torr, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.04849) [[git-hub]](https://github.com/Andrew-Qibin/DSS)
-	
-	
-- __Non-Local Deep Features for Salient Object Detection__
-
-	![nldf](data/NLDF.png)
-	
-	- Zhiming Luo, Akshaya Mishra , Andrew Achkar , Justin Eichel , Shaozi Li , Pierre-Marc.Jodoin, *__CVPR 2017__*. [[project page]](https://sites.google.com/view/zhimingluo/nldf)
-	
-	
-- __Instance-Level Salient Object Segmentation__
-
-	![msrnet](data/MSRNet.png)
-	
-	- [Guanbin Li](https://sites.google.com/site/ligb86/), Yuan Xie, Liang Lin, Yizhou Yu, *__CVPR 2017__*. [[paper]](https://arxiv.org/pdf/1704.03604.pdf)
-	
-	
-- __Learning to Detect Salient Objects with Image-level Supervision__
-
-	![wss](data/WSS.png)
-	
-	- Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , and Xiang Ruan, *__CVPR 2017__*. [[paper]](http://saliencydetection.net/duts/download/camera_ready.pdf)
 
 ### Visual Object Tracking
 [Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
 	
 ### Object Detection
-- __Rich feature hierarchies for accurate object detection and semantic segmentation__
 
-	![r-cnn](data/R-CNN.png)
-
-	- Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, *__CVPR 2014__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[git-hub]](https://github.com/rbgirshick/rcnn)
-	
-	
-- __Fast R-CNN__
-
-	![fast r-cnn](data/Fast-R-CNN.png)
-
-	- Ross Girshick, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [[git-hub]](https://github.com/rbgirshick/fast-rcnn)
-	
-	
-- __Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks__
-
-	![faster r-cnn](data/Faster-R-CNN.png)
-
-	- Shaoqing Ren, [Kaiming He](http://kaiminghe.com/), Ross Girshick, Jian Sun, *__NIPS 2015__*. [[paper]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) [[matlab]](https://github.com/ShaoqingRen/faster_rcnn) [[python]](https://github.com/rbgirshick/py-faster-rcnn)
-	
-	
-- __Convolutional Feature Masking for Joint Object and Stuff Segmentation__
-
-	![cfm](data/CFM.png)
-
-	- Jifeng Dai, [Kaiming He](http://kaiminghe.com/), Jian Sun, *__CVPR 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf)
-	
-	
-- __Instance-aware Semantic Segmentation via Multi-task Network Cascades__
-
-	![mnc](data/MNC.png)	
-	
-	- Jifeng Dai, [Kaiming He](http://kaiminghe.com/), Jian Sun, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf) [[git-hub]](https://github.com/daijifeng001/MNC)
-	
-	
-- __R-FCN: Object Detection via Region-based Fully Convolutional Networks__
-
-	![region-fcn](data/Region-FCN.png)
-
-	- Jifeng Dai, Yi Li,  [Kaiming He](http://kaiminghe.com/), Jian Sun, *__NIPS 2016__*. [[paper]](https://arxiv.org/abs/1605.06409) [[git-hub]](https://github.com/daijifeng001/R-FCN)
-	
-	
-- __Feature Pyramid Networks for Object Detection__
-
-	![fpn](data/FPN.png)
-
-	- Tsung-Yi Lin, Piotr Dollár, Ross Girshick, [Kaiming He](http://kaiminghe.com/), Bharath Hariharan, and Serge Belongie, *__CVPR 2017__*. [[paper]](https://arxiv.org/pdf/1612.03144.pdf)
-	
-	
-- __Mask R-CNN__
-
-	![mask r-cnn](data/Mask-R-CNN.png)
-
-	- Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, *__Tech Report__*. [[paper]](https://arxiv.org/abs/1703.06870)
-	
-	
-- __A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection__
-
-	![a-fast-r-cnn](data/A-Fast-R-CNN.png)
-
-	- Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03414) [[git-hub]](https://github.com/xiaolonw/adversarial-frcnn)
-	
-	
-- __Multiple Instance Detection Network with Online Instance Classifier Refinement__
-
-	![midn](data/MIDN.png)
-
-	- Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.00138)
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/R-CNN.png"  alt="R-CNN" align=center /></th>
+            <th>Rich feature hierarchies for accurate object detection and semantic segmentation</th>
+            <th>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik</th>
+            <th>CVPR 2014</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf">paper</a>  <a href="https://github.com/rbgirshick/rcnn">github</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/Fast-R-CNN.png"  alt="Fast-R-CNN" align=center /></th>
+            <th>Fast R-CNN</th>
+            <th>Ross Girshick</th>
+            <th>ICCV 2015</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf">paper</a>  <a href="https://github.com/rbgirshick/fast-rcnn">github</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/Faster-R-CNN.png"  alt="Faster-R-CNN" align=center /></th>
+            <th>Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</th>
+            <th>Shaoqing Ren, <a href="http://kaiminghe.com/">Kaiming He</a>, Ross Girshick, Jian Sun</th>
+            <th>NIPS 2015</th>
+            <th><a href="http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf">paper</a> <a href="https://github.com/ShaoqingRen/faster_rcnn">matlab</a>  <a href="https://github.com/rbgirshick/py-faster-rcnn">python</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/CFM.png"  alt="CFM" align=center /></th>
+            <th>Convolutional Feature Masking for Joint Object and Stuff Segmentation</th>
+            <th>Jifeng Dai, <a href="http://kaiminghe.com/">Kaiming He</a>, Jian Sun</th>
+            <th>CVPR 2015</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/MNC.png"  alt="MNC" align=center /></th>
+            <th>Instance-aware Semantic Segmentation via Multi-task Network Cascades</th>
+            <th>Jifeng Dai, <a href="http://kaiminghe.com/">Kaiming He</a>, Jian Sun</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf">paper</a>  <a href="https://github.com/daijifeng001/MNC">github</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/Region-FCN.png"  alt="Region-FCN" align=center /></th>
+            <th>R-FCN: Object Detection via Region-based Fully Convolutional Networks</th>
+            <th>Jifeng Dai, Yi Li,  <a href="http://kaiminghe.com/">Kaiming He</a>, Jian Sun</th>
+            <th>NIPS 2016</th>
+            <th><a href="https://arxiv.org/abs/1605.06409">paper</a>  <a href="https://github.com/daijifeng001/R-FCN">github</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/FPN.png"  alt="FPN" align=center /></th>
+            <th>Feature Pyramid Networks for Object Detection</th>
+            <th>Tsung-Yi Lin, Piotr Dollár, Ross Girshick, <a href="http://kaiminghe.com/">Kaiming He</a>, Bharath Hariharan, and Serge Belongie</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/pdf/1612.03144.pdf">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/Mask-R-CNN.png"  alt="Mask-R-CNN" align=center /></th>
+            <th>Mask R-CNN</th>
+            <th>Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick</th>
+            <th>Tech Report</th>
+            <th><a href="https://arxiv.org/abs/1703.06870">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/A-Fast-R-CNN.png"  alt="A-Fast-R-CNN" align=center /></th>
+            <th>A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection</th>
+            <th>Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.03414">paper</a>  <a href="https://github.com/xiaolonw/adversarial-frcnn">github</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/MIDN.png"  alt="MIDN" align=center /></th>
+            <th>Multiple Instance Detection Network with Online Instance Classifier Refinement</th>
+            <th>Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.00138">paper</a></th>
+        </tr>    
+    </thead>
+</table>
 	
 	
 ### Object Localization
 
-- __Simultaneous Detection and Segmentation__
-
-	![sds](data/SDS.png)
-
-	- Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik, *__ECCV 2014__*. [[paper]](https://arxiv.org/abs/1407.1808)
-	
-	
-- __Deep Self-Taught Learning for Weakly Supervised Object Localization__
-
-	![wsol](data/WSOL.png)
-
-	- Zequn Jie, Yunchao Wei, Xiaojie Jin, Jiashi Feng, Wei Liu, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.05188)
-	
-	
-- __Learning Detection with Diverse Proposals__
-
-	![lddp](data/LDDP.png)
-
-	- Samaneh Azadi, Jiashi Feng, Trevor Darrell, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03533)
-	
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/SDS.png"  alt="SDS" align=center /></th>
+            <th>Simultaneous Detection and Segmentation</th>
+            <th>Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik</th>
+            <th>ECCV 2014</th>
+            <th><a href="https://arxiv.org/abs/1407.1808">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/WSOL.png"  alt="WSOL" align=center /></th>
+            <th>Deep Self-Taught Learning for Weakly Supervised Object Localization</th>
+            <th>Zequn Jie, Yunchao Wei, Xiaojie Jin, Jiashi Feng, Wei Liu</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.05188">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/LDDP.png"  alt="LDDP" align=center /></th>
+            <th>Learning Detection with Diverse Proposals</th>
+            <th>Samaneh Azadi, Jiashi Feng, Trevor Darrell</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.03533">paper</a></th>
+        </tr>
+    </thead>
+</table>	
 
 ### Semantic Segmentation & Scene Parsing
 
-- __Fully Convolutional Networks for Semantic Segmentation__
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/FCN.png"  alt="FCN" align=center /></th>
+            <th>Fully Convolutional Networks for Semantic Segmentation</th>
+            <th>Jonathan Long, Evan Shelhamer, Trevor Darrell</th>
+            <th>CVPR 2015</th>
+            <th><a href="https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/LSOC.png"  alt="LSOC" align=center /></th>
+            <th>Learning to Segment Object Candidates</th>
+            <th>Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar</th>
+            <th>NIPS 2015</th>
+            <th><a href="http://papers.nips.cc/paper/5852-learning-to-segment-object-candidates.pdf">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/LROS.png"  alt="LROS" align=center /></th>
+            <th>Learning to Refine Object Segments</th>
+            <th>Pedro O. Pinheiro , Tsung-Yi Lin , Ronan Collobert, Piotr Doll ́ar</th>
+            <th>arXiv 1603.08695</th>
+            <th><a href="https://arxiv.org/pdf/1603.08695.pdf">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/CRFRNN.png"  alt="CRFRNN" align=center /></th>
+            <th>Conditional Random Fields as Recurrent Neural Networks</th>
+            <th>Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, ZhiZhong Su, Dalong Du, Chang Huang, and Philip H. S. Torr</th>
+            <th>ICCV 2015</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Conditional_Random_Fields_ICCV_2015_paper.html">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/LDN.png"  alt="LDN" align=center /></th>
+            <th>Learning Deconvolution Network for Semantic Segmentation</th>
+            <th>Heonwoo Noh, Seunghoon Hong, Bohyung Han</th>
+            <th>ICCV 2015</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.html">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/ISFCN.png"  alt="ISFCN" align=center /></th>
+            <th>Instance-sensitive Fully Convolutional Networks</th>
+            <th>Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, Jian Sun</th>
+            <th>arXiv 1603.08678</th>
+            <th><a href="https://arxiv.org/abs/1603.08678">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/SSIS.png"  alt="SSIS" align=center /></th>
+            <th>Attention to Scale: Scale-aware Semantic Image Segmentation</th>
+            <th>Liang-Chieh Chen, Yi Yang, Jiang Wang, Wei Xu, Alan L. Yuille</th>
+            <th>CVPR 2016</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Attention_to_Scale_CVPR_2016_paper.html">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/Not-All-Pixels-Are-Equal.png"  alt="Not-All-Pixels-Are-Equal" align=center /></th>
+            <th>Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade</th>
+            <th>Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang</th>
+            <th>CVPR 2016</th>
+            <th><a href="https://arxiv.org/abs/1704.01344">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/RefineNet.png"  alt="RefineNet" align=center /></th>
+            <th>RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation</th>
+            <th>Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid</th>
+            <th>arXiv 1611.06612</th>
+            <th><a href="https://arxiv.org/abs/1611.06612">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/PSPNet.png"  alt="PSPNet" align=center /></th>
+            <th>Pyramid Scene Parsing Network</th>
+            <th>Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1612.01105>paper</a>  <a href="https://github.com/hszhao/PSPNet">github</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/DRN.png"  alt="DRN" align=center /></th>
+            <th>Dilated Residual Networks</th>
+            <th>Fisher Yu, Vladlen Koltun, Thomas Funkhouser</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1705.09914">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/FCIS.png"  alt="FCIS" align=center /></th>
+            <th>Fully Convolutional Instance-aware Semantic Segmentation</th>
+            <th>Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1611.07709">paper</a>  <a href="https://github.com/msracver/FCIS">github</a></th>
+        </tr>  
+    </thead>
+</table>
 
-	![fcn](data/FCN.png)
-
-	- Jonathan Long, Evan Shelhamer, Trevor Darrell, *__CVPR 2015__*. [[paper]](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
-	
-	
-- __Learning to Segment Object Candidates__
-
-	![lsoc](data/LSOC.png)
-
-	- Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar, *__NIPS 2015__*. [[paper]](http://papers.nips.cc/paper/5852-learning-to-segment-object-candidates.pdf)
-	
-	
-- __Learning to Refine Object Segments__
-
-	![lros](data/LROS.png)
-
-	- Pedro O. Pinheiro , Tsung-Yi Lin , Ronan Collobert, Piotr Doll ́ar, *__arXiv 1603.08695__*. [[paper]](https://arxiv.org/pdf/1603.08695.pdf)
-	
-
-- __Conditional Random Fields as Recurrent Neural Networks__
-
-	![crfrnn](data/CRFRNN.png)
-	
-	- Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, ZhiZhong Su, Dalong Du, Chang Huang, and Philip H. S. Torr, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Conditional_Random_Fields_ICCV_2015_paper.html)
-
-
-- __Learning Deconvolution Network for Semantic Segmentation__
-
-	![ldn](data/LDN.png)
-	
-	- Heonwoo Noh, Seunghoon Hong, Bohyung Han, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.html)
-	
-	
-- __Instance-sensitive Fully Convolutional Networks__
-
-	![isfcn](data/ISFCN.png)
-
-	- Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, Jian Sun, *__arXiv 1603.08678__*. [[paper]](https://arxiv.org/abs/1603.08678) 
-	
-
-- __Attention to Scale: Scale-aware Semantic Image Segmentation__
-
-	![ssis](data/SSIS.png)
-	
-	- Liang-Chieh Chen, Yi Yang, Jiang Wang, Wei Xu, Alan L. Yuille, *__CVPR 2016__*. [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Attention_to_Scale_CVPR_2016_paper.html)
-	
-- __Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade__
-
-	![not all pixels are equal](data/Not-All-Pixels-Are-Equal.png)
-
-	- Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang, *__CVPR 2016__*. [[paper]](https://arxiv.org/abs/1704.01344)
-	
-	
-- __RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation__
-
-	![refinenet](data/RefineNet.png)
-
-	- Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid, *__arXiv 1611.06612__*. [[paper]](https://arxiv.org/abs/1611.06612)
-	
-	
-- __Pyramid Scene Parsing Network__
-
-	![pspnet](data/PSPNet.png)
-
-	- Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1612.01105) [[git-hub]](https://github.com/hszhao/PSPNet)
-	
-
-- __Dilated Residual Networks__
-
-	![drn](data/DRN.png)
-	
-	- Fisher Yu, Vladlen Koltun, Thomas Funkhouser, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1705.09914)
-	
-- __Fully Convolutional Instance-aware Semantic Segmentation__
-
-	![fcis](data/FCIS.png)
-
-	- Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei, *___CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.07709) [[git-hub]](https://github.com/msracver/FCIS)
-	
-	
 ### Edge Detection
 
-- __Holistically-Nested Edge Detection__
-
-	![hed](data/HED.png)
-
-	- Saining Xie, Zhuowen Tu, *__ICCV 2015__*. [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf)
-	
-	
-- __Richer Convolutional Features for Edge Detection__
-
-	![rcf](data/RCF.png)
-
-	- Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1612.02103)
-	
-
-- __CASENet: Deep Category-Aware Semantic Edge Detection__
-
-	![casenet](data/CASENet.png)
-	
-	- Zhiding Yu, Chen Feng, Ming-Yu Liu, Srikumar Ramalingam, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1705.09759)
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/HED.png"  alt="HED" align=center /></th>
+            <th>Holistically-Nested Edge Detection</th>
+            <th>Saining Xie, Zhuowen Tu</th>
+            <th>ICCV 2015</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/RCF.png"  alt="RCF" align=center /></th>
+            <th>Richer Convolutional Features for Edge Detection</th>
+            <th>Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1612.02103">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/CASENet.png"  alt="CASENet" align=center /></th>
+            <th>CASENet: Deep Category-Aware Semantic Edge Detection</th>
+            <th>Zhiding Yu, Chen Feng, Ming-Yu Liu, Srikumar Ramalingam</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1705.09759">paper</a></th>
+        </tr>
+    </thead>
+</table>	
 	
 ### Pose Estimation
 
-- __Stacked Hourglass Networks for Human Pose Estimation__
-
-	![hourglass](data/Hourglass.png)
-
-	- Alejandro Newell, Kaiyu Yang, and Jia Deng, *__ECCV 2016__*. [[paper]](https://arxiv.org/abs/1603.06937)
-	
-	
-- __Multi-Context Attention for Human Pose Estimation__
-
-	![mca](data/MCA.png)
-
-	- [Xiao Chu](http://www.ee.cuhk.edu.hk/~xchu/), Wei Yang, [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/), Cheng Ma, Alan L. Yuille, [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1702.07432) [[git-hub]](https://github.com/bearpaw/pose-attention)
-	
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/Hourglass.png"  alt="Hourglass" align=center /></th>
+            <th>Stacked Hourglass Networks for Human Pose Estimation</th>
+            <th>Alejandro Newell, Kaiyu Yang, and Jia Deng</th>
+            <th>ECCV 2016</th>
+            <th><a href="https://arxiv.org/abs/1603.06937">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/MCA.png"  alt="MCA" align=center /></th>
+            <th>Multi-Context Attention for Human Pose Estimation</th>
+            <th><a href="http://www.ee.cuhk.edu.hk/~xchu/">Xiao Chu</a>, Wei Yang, <a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Wanli Ouyang</a>, Cheng Ma, Alan L. Yuille, <a href="http://www.ee.cuhk.edu.hk/~xgwang/">Xiaogang Wang</a></th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1702.07432">paper</a>  <a href="https://github.com/bearpaw/pose-attention">github</a></th>
+        </tr>
+    </thead>
+</table>	
 
 ### Semantic Matching
 
-- __AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching__
-
-	![anchornet](data/AnchorNet.png)
-	
-	- David Novotny, DianeLarlus, Andrea Vedaldi, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.04749)
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/AnchorNet.png"  alt="AnchorNet" align=center /></th>
+            <th>AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive Features For Semantic Matching</th>
+            <th>David Novotny, DianeLarlus, Andrea Vedaldi</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.04749">paper</a></th>
+        </tr> 
+    </thead>
+</table>	
 	
 ### Super Resolution
 
-- __Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution__
-
-	![lapsrn](data/LapSRN.png)
-
-	- Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang, *__CVPR 2017__*. [[project page]](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/LapSRN.png"  alt="LapSRN" align=center /></th>
+            <th>Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution</th>
+            <th>Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang</th>
+            <th>CVPR 2017</th>
+            <th><a href="http://vllab1.ucmerced.edu/~wlai24/LapSRN/">project page</a></th>
+        </tr> 
+    </thead>
+</table>	
 
 ### Image Classification
 
-- __Deep Residual Learning for Image Recognition__
-
-	![resnet](data/ResNet.png)
-
-	- Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, *__CVPR 2015__*. [[paper]](https://arxiv.org/abs/1512.03385) [[git-hub]](https://github.com/KaimingHe/deep-residual-networks)
-	
-	
-- __Residual Attention Network for Image Classification__
-
-	![res-attention-network](data/Res-Attention-Network.png)
-
-	- Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.06904)
-	
-	
-- __Aggregated Residual Transformations for Deep Neural Networks__
-
-	![resnext](data/ResNeXt.png)
-
-	- Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1611.05431) [[git-hub]](https://github.com/facebookresearch/ResNeXt)
-
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/ResNet.png"  alt="ResNet" align=center /></th>
+            <th>Deep Residual Learning for Image Recognition</th>
+            <th>Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun</th>
+            <th>CVPR 2015</th>
+            <th><a href="https://arxiv.org/abs/1512.03385">paper</a>  <a href="https://github.com/KaimingHe/deep-residual-networks">github</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/Res-Attention-Network.png"  alt="Res-Attention-Network" align=center /></th>
+            <th>Residual Attention Network for Image Classification</th>
+            <th>Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.06904">paper</a></th>
+        </tr> 
+        tr>
+            <th><img src="data/ResNeXt.png"  alt="ResNeXt" align=center /></th>
+            <th>Aggregated Residual Transformations for Deep Neural Networks</th>
+            <th>Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, and Kaiming He</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1611.05431">paper</a> <a href="https://github.com/facebookresearch/ResNeXt">github</a></th>
+        </tr>
+    </thead>
+</table>	
 	
 ### Others
-- __SRN：Side-output Residual Network for Object Symmetry Detection in the Wild__
 
-	![srn](data/SRN.png)
-	
-	- Wei Ke, Jie Chen, Jianbin Jiao, Guoying Zhao and Qixiang Ye, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1703.02243)
-	
-- __Quality Aware Network for Set to Set Recognition__
-
-	![qan](data/QAN.png)
-
-	- Yu Liu, Junjie Yan, Wanli Ouyang, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.03373)
-	
-- __Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation__
-
-	![continuous crfs](data/Continuous-CRFs.png)
-	
-	- Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.02157)
-	
-- __Learning Cross-Modal Deep Representations for Robust Pedestrian Detection__
-
-	![cmt](data/CMT.png)
-	
-	- Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang, Nicu Sebe, *__CVPR 2017__*. [[paper]](https://arxiv.org/abs/1704.02431)
+<table>
+    <thead>
+        <tr>
+            <th>Figure</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Pub.</th>
+            <th>Links</th>
+        </tr>
+        <tr>
+            <th><img src="data/SRN.png"  alt="SRN" align=center /></th>
+            <th>SRN：Side-output Residual Network for Object Symmetry Detection in the Wild</th>
+            <th>Wei Ke, Jie Chen, Jianbin Jiao, Guoying Zhao and Qixiang Ye</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1703.02243">paper</a></th>
+        </tr> 
+        <tr>
+            <th><img src="data/QAN.png"  alt="QAN" align=center /></th>
+            <th>Quality Aware Network for Set to Set Recognition</th>
+            <th>Yu Liu, Junjie Yan, Wanli Ouyang</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.03373">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/Continuous-CRFs.png"  alt="Continuous-CRFs" align=center /></th>
+            <th>Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation</th>
+            <th>Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.02157">paper</a></th>
+        </tr>
+        <tr>
+            <th><img src="data/CMT.png"  alt="CMT" align=center /></th>
+            <th>Learning Cross-Modal Deep Representations for Robust Pedestrian Detection</th>
+            <th>Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang, Nicu Sebe</th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1704.02431">paper</a></th>
+        </tr>    
+    </thead>
+</table>
