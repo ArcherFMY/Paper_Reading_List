@@ -21,7 +21,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -148,7 +148,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -233,7 +233,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -268,7 +268,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -366,7 +366,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -401,7 +401,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -429,7 +429,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -450,7 +450,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -471,7 +471,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
@@ -506,7 +506,7 @@ Paper list.
         <tr>
             <th>Figure</th>
             <th>Title</th>
-            <th>Author</th>
+            <th>Authors</th>
             <th>Pub.</th>
             <th>Links</th>
         </tr>
