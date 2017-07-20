@@ -332,8 +332,8 @@ Paper list.
             <th><img src="data/RefineNet.png"  alt="RefineNet" align=center /></th>
             <th>RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation</th>
             <th>Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid</th>
-            <th>arXiv 1611.06612</th>
-            <th><a href="https://arxiv.org/abs/1611.06612">paper</a></th>
+            <th>CVPR 2017</th>
+            <th><a href="https://arxiv.org/abs/1611.06612">paper</a>  <a href="https://github.com/guosheng/refinenet">github</a></th>
         </tr>
         <tr>
             <th><img src="data/PSPNet.png"  alt="PSPNet" align=center /></th>
