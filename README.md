@@ -314,6 +314,13 @@ Paper list.
             <th>arXiv 1603.08678</th>
             <th><a href="https://arxiv.org/abs/1603.08678">paper</a></th>
         </tr>
+	<tr>
+            <th><img src="data/LPRR.png"  alt="LPRR" align=center /></th>
+            <th>Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation</th>
+            <th>Golnaz Ghiasi, Charless C. Fowlkes</th>
+            <th>ECCV 2016</th>
+            <th><a href="https://link.springer.com/chapter/10.1007/978-3-319-46487-9_32">paper</a>  <a href="https://github.com/golnazghiasi/LRR">github</a></th>
+        </tr>
         <tr>
             <th><img src="data/SSIS.png"  alt="SSIS" align=center /></th>
             <th>Attention to Scale: Scale-aware Semantic Image Segmentation</th>
@@ -375,7 +382,7 @@ Paper list.
             <th>Holistically-Nested Edge Detection</th>
             <th>Saining Xie, Zhuowen Tu</th>
             <th>ICCV 2015</th>
-            <th><a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf">paper</a></th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf">paper</a>  <a href="https://github.com/s9xie/hed">github</a></th>
         </tr> 
         <tr>
             <th><img src="data/RCF.png"  alt="RCF" align=center /></th>
@@ -510,12 +517,19 @@ Paper list.
             <th>Pub.</th>
             <th>Links</th>
         </tr>
+	<tr>
+            <th><img src="data/FSDSO.png"  alt="FSDSO" align=center /></th>
+            <th>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs</th>
+            <th>Wei Shen, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai</th>
+            <th>ICCV 2016</th>
+            <th><a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.html">paper</a>  <a href="https://github.com/zeakey/DeepSkeleton">github</a></th>
+        </tr> 
         <tr>
             <th><img src="data/SRN.png"  alt="SRN" align=center /></th>
             <th>SRN：Side-output Residual Network for Object Symmetry Detection in the Wild</th>
             <th>Wei Ke, Jie Chen, Jianbin Jiao, Guoying Zhao and Qixiang Ye</th>
             <th>CVPR 2017</th>
-            <th><a href="https://arxiv.org/abs/1703.02243">paper</a></th>
+            <th><a href="https://arxiv.org/abs/1703.02243">paper</a>  <a href="https://github.com/KevinKecc/SRN">github</a></th>
         </tr> 
         <tr>
             <th><img src="data/QAN.png"  alt="QAN" align=center /></th>
@@ -529,7 +543,7 @@ Paper list.
             <th>Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation</th>
             <th>Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe</th>
             <th>CVPR 2017</th>
-            <th><a href="https://arxiv.org/abs/1704.02157">paper</a></th>
+            <th><a href="https://arxiv.org/abs/1704.02157">paper</a>  <a href="https://github.com/danxuhk/ContinuousCRF-CNN">github</a></th>
         </tr>
         <tr>
             <th><img src="data/CMT.png"  alt="CMT" align=center /></th>
