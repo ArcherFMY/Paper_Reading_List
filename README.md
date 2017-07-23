@@ -340,7 +340,7 @@ Paper list.
             <th>Pyramid Scene Parsing Network</th>
             <th>Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia</th>
             <th>CVPR 2017</th>
-            <th><a href="https://arxiv.org/abs/1612.01105>paper</a>  <a href="https://github.com/hszhao/PSPNet">github</a></th>
+            <th><a href="https://arxiv.org/abs/1612.01105">paper</a>  <a href="https://github.com/hszhao/PSPNet">github</a></th>
         </tr> 
         <tr>
             <th><img src="data/DRN.png"  alt="DRN" align=center /></th>
