@@ -90,7 +90,8 @@ Paper list.
 ### Super Resolution
 |Figure   |Title   |Authors  |Pub.  |Links|
 |:-----:|:-----:|:-----:|:-----:|:---:|
-|![LapSRN](data/LapSRN.png)|__Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution__|Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang|__CVPR 2017__|[`project page`](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)|
+|![LapSRN](data/DRRN.png)|__Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution__|Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang|__CVPR 2017__|[`project page`](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)|
+|![DRRN](data/LapSRN.png)|__Image Super-Resolution via Deep Recursive Residual Network__|Ying Tai, Jian Yang, and Xiaoming Liu|__CVPR 2017__|[`paper`](https://www.researchgate.net/profile/Xiaoming_Liu8/publication/316017318_Image_Super-Resolution_via_Deep_Recursive_Residual_Network/links/58eda40b0f7e9b37ed14f5d7/Image-Super-Resolution-via-Deep-Recursive-Residual-Network.pdf) [`github`](https://github.com/tyshiwo/DRRN_CVPR17)|
 
 ### Image Classification
 |Figure   |Title   |Authors  |Pub.  |Links|
@@ -110,3 +111,6 @@ Paper list.
 |![QAN](data/QAN.png)|__Quality Aware Network for Set to Set Recognition__|Yu Liu, Junjie Yan, Wanli Ouyang|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.03373)|
 |![Continuous-CRFs](data/Continuous-CRFs.png)|__Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation__|Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.02157) [`github`](https://github.com/danxuhk/ContinuousCRF-CNN) :star:|
 |![CMT](data/CMT.png)|__Learning Cross-Modal Deep Representations for Robust Pedestrian Detection__|Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang, Nicu Sebe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.02431)|
+|![SS-DMP](data/SS-DMP.png)|__Semi-Supervised Deep Learning for Monocular Depth Map Prediction__|Yevhen Kuznietsov, Jörg Stückler, Bastian Leibe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1702.02706)|
+|![DVR](data/DVR.png)|__Detecting Visual Relationships with Deep Relational Networks__|Bo Dai, Yuqi Zhang, Dahua Lin
+|__CVPR 2017__|[`paper`](https://arxiv.org/pdf/1704.03114.pdf) [`github`](https://github.com/doubledaibo/drnet)|
