@@ -113,4 +113,4 @@ Paper list.
 |![CMT](data/CMT.png)|__Learning Cross-Modal Deep Representations for Robust Pedestrian Detection__|Dan Xu, Wanli Ouyang, Elisa Ricci, Xiaogang Wang, Nicu Sebe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.02431)|
 |![SS-DMP](data/SS-DMP.png)|__Semi-Supervised Deep Learning for Monocular Depth Map Prediction__|Yevhen Kuznietsov, Jörg Stückler, Bastian Leibe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1702.02706)|
 |![DRNet](data/DRNet.png)|__Detecting Visual Relationships with Deep Relational Networks__|Bo Dai, Yuqi Zhang, Dahua Lin|__CVPR 2017__|[`paper`](https://arxiv.org/pdf/1704.03114.pdf) [`github`](https://github.com/doubledaibo/drnet)|
-|![Polygon-RNN](data/Polygon-RNN.png)|__Annotating Object Instances with a Polygon-RNN__|Lluis Castrejon, Kaustav Kundu, Raquel Urtasun, Sanja Fidler|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.05548)|
+|![Polygon-RNN](data/Polygon-RNN.png)|__Annotating Object Instances with a Polygon-RNN__|Lluis Castrejon, Kaustav Kundu, Raquel Urtasun, Sanja Fidler|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.05548) :star:|
