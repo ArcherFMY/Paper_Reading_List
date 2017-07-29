@@ -31,6 +31,7 @@ Paper list.
 |![NLDF](data/NLDF.png)|__Non-Local Deep Features for Salient Object Detection__|Zhiming Luo, Akshaya Mishra , Andrew Achkar , Justin Eichel , Shaozi Li , Pierre-Marc.Jodoin|__CVPR 2017__|[`project page`](https://sites.google.com/view/zhimingluo/nldf)|
 |![MSRNet](data/MSRNet.png)|__Instance-Level Salient Object Segmentation__|[Guanbin Li](https://sites.google.com/site/ligb86/), Yuan Xie, Liang Lin, Yizhou Yu|__CVPR 2017__|[`paper`](https://arxiv.org/pdf/1704.03604.pdf)|
 |![WSS](data/WSS.png)|__Learning to Detect Salient Objects with Image-level Supervision__|Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , Xiang Ruan|__CVPR 2017__|[`paper`](http://saliencydetection.net/duts/download/camera_ready.pdf) [`github`](https://github.com/scott89/WSS)|
+|![DLS](data/DLS.png)|__Deep Level Sets for Salient Object Detection__|Ping Hu, Bing Shuai, Jun Liu, Gang Wang|__CVPR 2017__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Deep_Level_Sets_CVPR_2017_paper.pdf)|
 
 ### Visual Object Tracking
 [Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
