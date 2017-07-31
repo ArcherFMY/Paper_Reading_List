@@ -1,5 +1,10 @@
 # Recommended Papers
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
+
+## Paper Collections
+- [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
+- [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
+
 ## Topics
 - [Salient Object Detection](#salient-object-detection)
 - [Visual Object Tracking](#visual-object-tracking)
