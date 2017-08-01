@@ -1,4 +1,4 @@
-# Recommended Papers
+# Recommended Papers ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENCE)
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 
 ## Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
