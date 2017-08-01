@@ -1,7 +1,7 @@
 # Recommended Papers
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 
-## Paper Collections
+## Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
 - [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
 
