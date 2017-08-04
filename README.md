@@ -1,7 +1,7 @@
-# Recommended Papers
+# Recommended Papers ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 
-## Paper Collections
+## Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
 - [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
 
@@ -126,4 +126,7 @@ Paper list.
 |11|![GRU](data/GRU.png)|__Full Resolution Image Compression with Recurrent Neural Networks__|George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel Shor, Michele Covell|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1608.05148) [`github`](https://github.com/tensorflow/models/tree/master/compression)|
 |12|![FSOR](data/FSOR.png)|__Few-Shot Object Recognition from Machine-Labeled Web Images__|Zhongwen Xu, Linchao Zhu, Yi Yang|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1612.06152)|
 |13|![UberNet](data/UberNet.png)|__UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory__|Iasonas Kokkinos|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1609.02132) [`code`](http://cvn.ecp.fr/ubernet/)|
+<<<<<<< HEAD
 |14|![CP-CNN](data/CP-CNN.png)|__Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs__|Vishwanath A. Sindagi and Vishal M. Patel|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.00953)|
+=======
+>>>>>>> adc061aa2f65df5f2057a9674a80511c423ae386
