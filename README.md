@@ -16,8 +16,10 @@
 - [Super Resolution](#super-resolution)
 - [Image Classification](#image-classification)
 - [Others](#others)
+
 ## Papers
 Paper list.
+
 ### Salient Object Detection
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
@@ -37,6 +39,8 @@ Paper list.
 |14|![MSRNet](data/MSRNet.png)|__Instance-Level Salient Object Segmentation__|[Guanbin Li](https://sites.google.com/site/ligb86/), Yuan Xie, Liang Lin, Yizhou Yu|__CVPR 2017__|[`paper`](https://arxiv.org/pdf/1704.03604.pdf)|
 |15|![WSS](data/WSS.png)|__Learning to Detect Salient Objects with Image-level Supervision__|Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , Xiang Ruan|__CVPR 2017__|[`paper`](http://saliencydetection.net/duts/download/camera_ready.pdf) [`github`](https://github.com/scott89/WSS)|
 |16|![DLS](data/DLS.png)|__Deep Level Sets for Salient Object Detection__|Ping Hu, Bing Shuai, Jun Liu, Gang Wang|__CVPR 2017__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Deep_Level_Sets_CVPR_2017_paper.pdf)|
+|17|![UCF](data/UCF.png)|__Learning Uncertain Convolutional Features for Accurate Saliency Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Baocai Yin|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02031)|
+|17|![Amulet](data/Amulet.png)|__Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02001)|
 
 ### Visual Object Tracking
 [Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
@@ -61,6 +65,7 @@ Paper list.
 |1|![SDS](data/SDS.png)|__Simultaneous Detection and Segmentation__|Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik|__ECCV 2014__|[`paper`](https://arxiv.org/abs/1407.1808) :star:|
 |2|![WSOL](data/WSOL.png)|__Deep Self-Taught Learning for Weakly Supervised Object Localization__|Zequn Jie, Yunchao Wei, Xiaojie Jin, Jiashi Feng, Wei Liu|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.05188)|
 |3|![LDDP](data/LDDP.png)|__Learning Detection with Diverse Proposals__|Samaneh Azadi, Jiashi Feng, Trevor Darrell|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.03533)|
+|4|![TPL](data/TPL.png)|__Two-Phase Learning for Weakly Supervised Object Localization__|Two-Phase Learning for Weakly Supervised Object Localization|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02108)|
 
 ### Semantic Segmentation and Scene Parsing
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
@@ -127,3 +132,4 @@ Paper list.
 |12|![FSOR](data/FSOR.png)|__Few-Shot Object Recognition from Machine-Labeled Web Images__|Zhongwen Xu, Linchao Zhu, Yi Yang|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1612.06152)|
 |13|![UberNet](data/UberNet.png)|__UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory__|Iasonas Kokkinos|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1609.02132) [`code`](http://cvn.ecp.fr/ubernet/)|
 |14|![CP-CNN](data/CP-CNN.png)|__Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs__|Vishwanath A. Sindagi and Vishal M. Patel|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.00953)|
+|15|![MemNet](data/MemNet.png)|__MemNet: A Persistent Memory Network for Image Restoration__| Ying Tai, Jian Yang, Xiaoming Liu, Chunyan Xu|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02209)|
