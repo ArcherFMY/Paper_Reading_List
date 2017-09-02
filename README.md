@@ -39,8 +39,8 @@ Paper list.
 |14|![MSRNet](data/MSRNet.png)|__Instance-Level Salient Object Segmentation__|[Guanbin Li](https://sites.google.com/site/ligb86/), Yuan Xie, Liang Lin, Yizhou Yu|__CVPR 2017__|[`paper`](https://arxiv.org/pdf/1704.03604.pdf)|
 |15|![WSS](data/WSS.png)|__Learning to Detect Salient Objects with Image-level Supervision__|Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , Xiang Ruan|__CVPR 2017__|[`paper`](http://saliencydetection.net/duts/download/camera_ready.pdf) [`github`](https://github.com/scott89/WSS)|
 |16|![DLS](data/DLS.png)|__Deep Level Sets for Salient Object Detection__|Ping Hu, Bing Shuai, Jun Liu, Gang Wang|__CVPR 2017__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Deep_Level_Sets_CVPR_2017_paper.pdf)|
-|17|![UCF](data/UCF.png)|__Learning Uncertain Convolutional Features for Accurate Saliency Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Baocai Yin|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02031)|
-|17|![Amulet](data/Amulet.png)|__Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02001)|
+|17|![UCF](data/UCF.png)|__Learning Uncertain Convolutional Features for Accurate Saliency Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Baocai Yin|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02031) [`github`](https://github.com/Pchank/caffe-sal)|
+|17|![Amulet](data/Amulet.png)|__Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02001) [`github`](https://github.com/Pchank/caffe-sal)|
 
 ### Visual Object Tracking
 [Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
