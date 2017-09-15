@@ -1,16 +1,16 @@
 # Recommended Papers ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 
-## Deep Learning Paper Reading Roadmap ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
+### Deep Learning Paper Reading Roadmap ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
 >Here is a reading roadmap of Deep Learning papers! [`link`](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
-## Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
+### Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
 - [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
 
-## Topics
+### Concerned Topics
 - [Salient Object Detection](#salient-object-detection)
 - [Visual Object Tracking](#visual-object-tracking)
 - [Object Detection](#object-detection)
@@ -22,10 +22,10 @@
 - [Image Classification](#image-classification)
 - [Others](#others)
 
-## Papers
+#### Papers
 Paper list.
 
-### Salient Object Detection
+##### Salient Object Detection
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![MDF](data/MDF.png)|__Visual Saliency Based on Multiscale Deep Features__|[Guanbin Li](https://sites.google.com/site/ligb86/), Yizhou Yu|__CVPR 2015__|[`project page`](https://sites.google.com/site/ligb86/mdfsaliency/)|
@@ -47,10 +47,10 @@ Paper list.
 |17|![UCF](data/UCF.png)|__Learning Uncertain Convolutional Features for Accurate Saliency Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Baocai Yin|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02031) [`github`](https://github.com/Pchank/caffe-sal)|
 |17|![Amulet](data/Amulet.png)|__Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02001) [`github`](https://github.com/Pchank/caffe-sal)|
 
-### Visual Object Tracking
+##### Visual Object Tracking
 [Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
 
-### Object Detection
+##### Object Detection
 |No. |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![R-CNN](data/R-CNN.png)|__Rich feature hierarchies for accurate object detection and semantic segmentation__|Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik|__CVPR 2014__|[`paper`](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [`github`](https://github.com/rbgirshick/rcnn) :star:|
@@ -64,7 +64,7 @@ Paper list.
 |9|![A-Fast-R-CNN](data/A-Fast-R-CNN.png)|__A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection__|Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.03414)  [`github`](https://github.com/xiaolonw/adversarial-frcnn) :star:|
 |10|![MIDN](data/MIDN.png)|__Multiple Instance Detection Network with Online Instance Classifier Refinement__|Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.00138)|
 
-### Object Localization
+##### Object Localization
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |------|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![SDS](data/SDS.png)|__Simultaneous Detection and Segmentation__|Bharath Hariharan, Pablo Arbeláez, Ross Girshick, Jitendra Malik|__ECCV 2014__|[`paper`](https://arxiv.org/abs/1407.1808) :star:|
@@ -73,7 +73,7 @@ Paper list.
 |4|![TPL](data/TPL.png)|__Two-Phase Learning for Weakly Supervised Object Localization__|Dahun Kim, Donghyeon Cho, Donggeun Yoo, In So Kweon|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02108)|
 |5|![SPN](data/SPN.png)|__Soft Proposal Networks for Weakly Supervised Object Localization__|Yi Zhu, Yanzhao Zhou, Qixiang Ye, Qiang Qiu and Jianbin Jiao|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1709.01829) [`github`](https://github.com/ZhouYanzhao/SPN)|
 
-### Semantic Segmentation and Scene Parsing
+##### Semantic Segmentation and Scene Parsing
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |--------|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![FCN](data/FCN.png)|__Fully Convolutional Networks for Semantic Segmentation__|Jonathan Long, Evan Shelhamer, Trevor Darrell|__CVPR 2015__|[`paper`](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) :star:|
@@ -92,26 +92,26 @@ Paper list.
 |14|![FRRN](data/FRRN.png)|__Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes__|Tobias Pohlen, Alexander Hermans, Markus Mathias, Bastian Leibe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1611.08323) [`github`](https://github.com/TobyPDE/FRRN)|
 |15|![A-Erasing](data/A-Erasing.png)|__Object Region Mining with Adversarial Erasing: A Simple Classification toSemantic Segmentation Approach__|Yunchao Wei, Jiashi Feng, Xiaodan Liang, Ming-Ming Cheng, Yao Zhao, Shuicheng Yan|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1703.08448) :star:|
 
-### Edge Detection
+##### Edge Detection
 |No. |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![HED](data/HED.png)|__Holistically-Nested Edge Detection__|Saining Xie, Zhuowen Tu|__ICCV 2015__|[`paper`](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf) [`github`](https://github.com/s9xie/hed) :star:|
 |2|![RCF](data/RCF.png)|__Richer Convolutional Features for Edge Detection__|Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Kai Wang, Xiang Bai|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1612.02103) [`project page`](http://mmcheng.net/rcfedge/)|
 |3|![CASENet](data/CASENet.png)|__CASENet: Deep Category-Aware Semantic Edge Detection__|Zhiding Yu, Chen Feng, Ming-Yu Liu, Srikumar Ramalingam|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1705.09759)|
 
-### Pose Estimation
+##### Pose Estimation
 |No. |Figure   |Title   |Authors  |Pub.  |Links|
 |----|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![Hourglass](data/Hourglass.png)|__Stacked Hourglass Networks for Human Pose Estimation__|Alejandro Newell, Kaiyu Yang, and Jia Deng|__ECCV 2016__|[`paper`](https://arxiv.org/abs/1603.06937) :star:|
 |2|![MCA](data/MCA.png)|__Multi-Context Attention for Human Pose Estimation__|[Xiao Chu](http://www.ee.cuhk.edu.hk/~xchu/), Wei Yang, [Wanli Ouyang](http://www.ee.cuhk.edu.hk/~wlouyang/), Cheng Ma, Alan L. Yuille, [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1702.07432) [`github`](https://github.com/bearpaw/pose-attention)|
 
-### Super Resolution
+##### Super Resolution
 |No. |Figure   |Title   |Authors  |Pub.  |Links|
 |------|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![LapSRN](data/LapSRN.png)|__Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution__|Wei-Sheng Lai, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang|__CVPR 2017__|[`project page`](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)|
 |2|![DRRN](data/DRRN.png)|__Image Super-Resolution via Deep Recursive Residual Network__|Ying Tai, Jian Yang, and Xiaoming Liu|__CVPR 2017__|[`paper`](https://www.researchgate.net/profile/Xiaoming_Liu8/publication/316017318_Image_Super-Resolution_via_Deep_Recursive_Residual_Network/links/58eda40b0f7e9b37ed14f5d7/Image-Super-Resolution-via-Deep-Recursive-Residual-Network.pdf) [`github`](https://github.com/tyshiwo/DRRN_CVPR17)|
 
-### Image Classification
+##### Image Classification
 |No. |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![GoogLeNet](data/GoogLeNet.png)|__Going Deeper with Convolutions__|Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed|__CVPR 2015__|[`paper`](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html) :star:|
@@ -121,7 +121,7 @@ Paper list.
 |5|![DenseNet](data/DenseNet.png)|__Densely Connected Convolutional Networks__|Gao Huang, Zhuang Liu, Kilian Q. Weinberger|__CVPR 2017__ *`best`*|[`paper`](https://arxiv.org/abs/1608.06993) [`github`](https://github.com/liuzhuang13/DenseNet) :star:|
 |6|![PyramidNet](data/PyramidNet.png)|__Deep Pyramidal Residual Networks__|Dongyoon Han, Jiwhan Kim, Junmo Kim|__CVPR 2017__|[`paper`](https://arxiv.org/pdf/1610.02915.pdf) [`github`](https://github.com/jhkim89/PyramidNet) :star:|
 
-### Others
+##### Others
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |1|![FSDSO](data/FSDSO.png)|__Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs__|Wei Shen, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai|__ICCV 2016__|[`paper`](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.html) [`github`](https://github.com/zeakey/DeepSkeleton)|
