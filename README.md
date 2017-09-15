@@ -10,7 +10,7 @@
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
 - [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
 
-### Concerned Topics
+### Topics Concerned
 - [Salient Object Detection](#salient-object-detection)
 - [Visual Object Tracking](#visual-object-tracking)
 - [Object Detection](#object-detection)
