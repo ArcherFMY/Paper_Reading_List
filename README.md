@@ -2,9 +2,9 @@
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 
 ## Deep Learning Paper Reading Roadmap ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
-If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
+>If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
-Here is a reading roadmap of Deep Learning papers! [`link`](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+>Here is a reading roadmap of Deep Learning papers! [`link`](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 ## Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
