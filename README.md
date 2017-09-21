@@ -8,7 +8,7 @@
 
   >Here is a reading roadmap of Deep Learning papers! [`link`](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
-- Deep-Learning-Paper list from sbrugman  
+- Deep-Learning-Paper list from [sbrugman](https://github.com/sbrugman)  
   >Deep Learning Papers by task! [`link`](https://github.com/sbrugman/deep-learning-papers)
 
 ### Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
