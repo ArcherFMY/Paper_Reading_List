@@ -96,6 +96,8 @@ Paper list.
 |13|![FRRN](data/FRRN.png)|__Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes__|Tobias Pohlen, Alexander Hermans, Markus Mathias, Bastian Leibe|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1611.08323) [`github`](https://github.com/TobyPDE/FRRN)|
 |14|![A-Erasing](data/A-Erasing.png)|__Object Region Mining with Adversarial Erasing: A Simple Classification toSemantic Segmentation Approach__|Yunchao Wei, Jiashi Feng, Xiaodan Liang, Ming-Ming Cheng, Yao Zhao, Shuicheng Yan|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1703.08448) :star:|
 |15|![Not-All-Pixels-Are-Equal](data/Not-All-Pixels-Are-Equal.png)|__Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade__|Xiaoxiao Li, Ziwei Liu, Ping Luo, Chen Change Loy, Xiaoou Tang|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.01344)|
+|16|![Rev-Attention](data/Rev-Attention.png)|__Semantic Segmentation with Reverse Attention__|Qin Huang, Chunyang Xia, Wuchi Hao, Siyang Li, Ye Wang, Yuhang Song and C.-C. Jay Kuo
+|__BMVC 2017__|[`paper`](https://arxiv.org/abs/1707.06426) [`code`](https://drive.google.com/drive/folders/0By2w_AaM8Rzbllnc3JCQjhHYnM?usp=sharing)|
 
 ##### Edge Detection
 |No. |Figure   |Title   |Authors  |Pub.  |Links|
