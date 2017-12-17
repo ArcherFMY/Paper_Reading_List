@@ -68,6 +68,7 @@ Paper list.
 |8|![Mask-R-CNN](data/Mask-R-CNN.png)|__Mask R-CNN__|Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1703.06870) :star:|
 |9|![A-Fast-R-CNN](data/A-Fast-R-CNN.png)|__A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection__|Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.03414)  [`github`](https://github.com/xiaolonw/adversarial-frcnn) :star:|
 |10|![MIDN](data/MIDN.png)|__Multiple Instance Detection Network with Online Instance Classifier Refinement__|Peng Tang, Xinggang Wang, Xiang Bai, Wenyu Liu|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1704.00138)|
+|11|![R-FCN-3000](data/R-FCN-3000.png)|__R-FCN-3000 at 30fps: Decoupling Detection and Classification__|Bharat Singh, Hengdou Li, Abhishek Sharma and Larry S. Davis|__Tech Report__|[`paper`](https://arxiv.org/abs/1712.01802)|
 
 ##### Object Localization
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
