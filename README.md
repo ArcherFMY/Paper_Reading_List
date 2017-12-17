@@ -50,7 +50,7 @@ Paper list.
 |15|![WSS](data/WSS.png)|__Learning to Detect Salient Objects with Image-level Supervision__|Lijun Wang, Huchuan Lu, Yifan Wang, Mengyang Feng, Dong Wang, Baocai Yin , Xiang Ruan|__CVPR 2017__|[`paper`](http://saliencydetection.net/duts/download/camera_ready.pdf) [`github`](https://github.com/scott89/WSS)|
 |16|![DLS](data/DLS.png)|__Deep Level Sets for Salient Object Detection__|Ping Hu, Bing Shuai, Jun Liu, Gang Wang|__CVPR 2017__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Deep_Level_Sets_CVPR_2017_paper.pdf)|
 |17|![UCF](data/UCF.png)|__Learning Uncertain Convolutional Features for Accurate Saliency Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Baocai Yin|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02031) [`github`](https://github.com/Pchank/caffe-sal)|
-|17|![Amulet](data/Amulet.png)|__Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02001) [`github`](https://github.com/Pchank/caffe-sal)|
+|18|![Amulet](data/Amulet.png)|__Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection__|Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02001) [`github`](https://github.com/Pchank/caffe-sal)|
 
 ##### Visual Object Tracking
 [Recommended Homepage---OTB Results. This shares results for more recent trackers.](https://github.com/foolwood/benchmark_results)
@@ -146,3 +146,5 @@ Paper list.
 |13|![UberNet](data/UberNet.png)|__UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory__|Iasonas Kokkinos|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1609.02132) [`code`](http://cvn.ecp.fr/ubernet/)|
 |14|![CP-CNN](data/CP-CNN.png)|__Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs__|Vishwanath A. Sindagi and Vishal M. Patel|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.00953)|
 |15|![MemNet](data/MemNet.png)|__MemNet: A Persistent Memory Network for Image Restoration__| Ying Tai, Jian Yang, Xiaoming Liu, Chunyan Xu|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02209) [`github`](https://github.com/tyshiwo/MemNet)|
+|16|![DataDis](data/Data-Distillation.png)|__Data Distillation: Towards Omni-Supervised Learning__| Ilija Radosavovic, Piotr Dollar, Ross Girshick, GeorgiaGkioxari and Kaiming He|__Tech Report__|[`paper`](https://arxiv.org/abs/1712.04440)|
+|17|![NonLocalNN](data/Non-Local-NN.png)|__Non-local Neural Networks__| Xiaolong Wang, Ross Girshick, Abhinav Gupta and Kaiming He|__Tech Report__|[`paper`](https://arxiv.org/abs/1711.07971)|
