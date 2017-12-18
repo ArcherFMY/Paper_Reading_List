@@ -3,7 +3,7 @@
 
 ### Recommended Links ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 
-- Deep Learning Paper Reading Roadmap
+- Deep Learning Paper Reading Roadmap from [songrotek](https://github.com/songrotek)
   >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
   >Here is a reading roadmap of Deep Learning papers! [`link`](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
