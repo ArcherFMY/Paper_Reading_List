@@ -11,6 +11,9 @@
 - Deep-Learning-Paper list from [sbrugman](https://github.com/sbrugman)  
   >Deep Learning Papers by task! [`link`](https://github.com/sbrugman/deep-learning-papers)
 
+- Deep-Learning-Paper-Notes from [dennybritz](https://github.com/dennybritz)  
+  >Summaries and notes on Deep Learning research papers! (sorted by time) [`link`](https://github.com/dennybritz/deeplearning-papernotes)
+  
 ### Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
 - [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
