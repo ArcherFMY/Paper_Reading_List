@@ -155,3 +155,4 @@ Paper list.
 |15|![MemNet](data/MemNet.png)|__MemNet: A Persistent Memory Network for Image Restoration__| Ying Tai, Jian Yang, Xiaoming Liu, Chunyan Xu|__ICCV 2017__|[`paper`](https://arxiv.org/abs/1708.02209) [`github`](https://github.com/tyshiwo/MemNet)|
 |16|![DataDis](data/Data-Distillation.png)|__Data Distillation: Towards Omni-Supervised Learning__| Ilija Radosavovic, Piotr Dollar, Ross Girshick, GeorgiaGkioxari and Kaiming He|__Tech Report__|[`paper`](https://arxiv.org/abs/1712.04440)|
 |17|![NonLocalNN](data/Non-Local-NN.png)|__Non-local Neural Networks__| Xiaolong Wang, Ross Girshick, Abhinav Gupta and Kaiming He|__Tech Report__|[`paper`](https://arxiv.org/abs/1711.07971)|
+|18|![NASNet](data/NASNet.png)|__Learning Transferable Architectures for Scalable Image Recognition__| Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le|__Tech Report__|[`paper`](https://arxiv.org/abs/1707.07012)|
