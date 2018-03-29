@@ -31,9 +31,15 @@
 - [Others](10-Others.md)
 
 ### Notes: 
+
 - Papers accepted by [CVPR 2018](http://cvpr2018.thecvf.com/) are coming soon!
+
 - Some related [ECCV 2018](https://eccv2018.org/) submissions will also be collected.
+
 - For adding/updating the list,
+
 	[1]: Fork the repository
 	[2]: Update corresponding `*.md` file and add figures into `data/`
 	[3]: Send a pull request : )
+	
+- [AI Deadlines](https://aideadlin.es/) Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines 
