@@ -1,7 +1,7 @@
 # Recommended Papers ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg) [![DUB](https://img.shields.io/badge/MIT-license-brightgreen.svg)](LICENSE)
 - The goal of this document is to provide a reading list for Deep Learning in Computer Vision Field.
 
-### Recommended Links ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
+### Recommended Links
 
 - Deep Learning Paper Reading Roadmap from [songrotek](https://github.com/songrotek)
   >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
@@ -14,7 +14,7 @@
 - Deep-Learning-Paper-Notes from [dennybritz](https://github.com/dennybritz)  
   >Summaries and notes on Deep Learning research papers! (sorted by time) [`link`](https://github.com/dennybritz/deeplearning-papernotes)
   
-### Paper Collections   ![new](https://img.shields.io/badge/docs-New-brightgreen.svg)
+### Paper Collections
 - [CVPR 2017 papers related to Attention Model](CVPR2017-Attention-model/README.md)
 - [Paper List for Instance Aware Tasks](Instance-Aware-Paper-List/README.md)
 
