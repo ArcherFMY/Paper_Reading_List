@@ -36,10 +36,12 @@
 
 - Some related [ECCV 2018](https://eccv2018.org/) submissions will also be collected.
 
-- For adding/updating the list,
+- For __adding/updating the list__,
 
 	[1]: Fork the repository
+	
 	[2]: Update corresponding `*.md` file and add figures into `data/`
+	
 	[3]: Send a pull request : )
 	
 - [AI Deadlines](https://aideadlin.es/) Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines 
