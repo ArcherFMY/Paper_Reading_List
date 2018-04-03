@@ -21,15 +21,15 @@
 ### Topics Concerned
 - [Salient Object Detection](01-Salient-Object-Detection.md)
 - [Visual Object Tracking](02-Visual-Object-Tracking.md)
-- [Object Detection](03-Object-Detection.md)
+- [Object Detection](03-Object-Detection.md) [+2]
 - [Object Localization](04-Object-Localization.md)
 - [Semantic Segmentation and Scene Parsing](05-Semantic-Segmentation-and-Scene-Parsing.md)
 - [Edge Detection](06-Edge-Detection.md)
 - [Pose Estimation](07-Pose-Estimation.md)
-- [Super Resolution](08-Super-Resolution.md)
+- [Super Resolution](08-Super-Resolution.md) [+2]
 - [Image Classification](09-Image-Classification.md)
 - [Visual Question Answering](10-Visual-Question-Answering.md)![NewDocs](https://img.shields.io/badge/Docs-New-brightgreen.svg)
-- [Others](11-Others.md)
+- [Others](11-Others.md) [+2]
 
 ### Notes: 
 
