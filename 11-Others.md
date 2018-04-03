@@ -5,8 +5,8 @@
 |5|![Context-Embedding-Net](data/Context-Embedding-Net.png)|__Context Embedding Networks__|Kun Ho Kim, Oisin Mac Aodha, Pietro Perona|__CVPR 2018 (Spotlight)__|[`paper`](https://arxiv.org/abs/1710.01691v3)|
 |4|![Deep-GF](data/Deep-GF.png)|__Fast End-to-End Trainable Guided Filter__|Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1803.05619v1) [`project`](http://wuhuikai.me/DeepGuidedFilterProject/)|
 |3|![NASNet](data/NASNet.png)|__Learning Transferable Architectures for Scalable Image Recognition__| Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le|__Tech Report__|[`paper`](https://arxiv.org/abs/1707.07012)|
-|2|![NonLocalNN](data/Non-Local-NN.png)|__Non-local Neural Networks__| Xiaolong Wang, Ross Girshick, Abhinav Gupta and Kaiming He|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1711.07971)|
-|1|![DataDis](data/Data-Distillation.png)|__Data Distillation: Towards Omni-Supervised Learning__| Ilija Radosavovic, Piotr Dollar, Ross Girshick, GeorgiaGkioxari and Kaiming He|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1712.04440)|
+|2|![NonLocalNN](data/Non-Local-NN.png)|__Non-local Neural Networks__| Xiaolong Wang, Ross Girshick, Abhinav Gupta and Kaiming He|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1711.07971) [`github`](https://github.com/facebookresearch/Detectron)|
+|1|![DataDis](data/Data-Distillation.png)|__Data Distillation: Towards Omni-Supervised Learning__| Ilija Radosavovic, Piotr Dollar, Ross Girshick, GeorgiaGkioxari and Kaiming He|__CVPR 2018__|[`paper`](https://arxiv.org/abs/1712.04440) [`github`](https://github.com/facebookresearch/Detectron)|
 
 ### 2017
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
