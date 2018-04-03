@@ -22,10 +22,10 @@
 - [Salient Object Detection](01-Salient-Object-Detection.md)
 - [Visual Object Tracking](02-Visual-Object-Tracking.md)
 - [Object Detection](03-Object-Detection.md) [+2]
-- [Object Localization](04-Object-Localization.md)
-- [Semantic Segmentation and Scene Parsing](05-Semantic-Segmentation-and-Scene-Parsing.md)
-- [Edge Detection](06-Edge-Detection.md)
-- [Pose Estimation](07-Pose-Estimation.md)
+- [Object Localization](04-Object-Localization.md) [+1]
+- [Semantic Segmentation and Scene Parsing](05-Semantic-Segmentation-and-Scene-Parsing.md) [+3]
+- [Edge Detection](06-Edge-Detection.md) [+1]
+- [Pose Estimation](07-Pose-Estimation.md) [+1]
 - [Super Resolution](08-Super-Resolution.md) [+2]
 - [Image Classification](09-Image-Classification.md)
 - [Visual Question Answering](10-Visual-Question-Answering.md)![NewDocs](https://img.shields.io/badge/Docs-New-brightgreen.svg)
