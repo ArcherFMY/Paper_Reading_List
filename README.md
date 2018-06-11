@@ -28,7 +28,7 @@
 - [Pose Estimation](07-Pose-Estimation.md) [+1]
 - [Super Resolution](08-Super-Resolution.md) [+2]
 - [Image Classification](09-Image-Classification.md)
-- [Visual Question Answering](10-Visual-Question-Answering.md)![NewDocs](https://img.shields.io/badge/Docs-New-brightgreen.svg)
+- [Visual Question Answering](10-Visual-Question-Answering.md)
 - [Others](11-Others.md) [+2]
 
 ### Notes: 
