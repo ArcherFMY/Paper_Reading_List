@@ -1,5 +1,5 @@
 ## Video Object Segmentation
-### 2017
+### 2018
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |8|![MoNet](data/MoNet.png)|__MoNet: Deep Motion Exploitation for Video Object Segmentation__|Huaxin Xiao, Jiashi Feng, Guosheng Lin, Yu Liu, Maojun Zhang|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf)|
