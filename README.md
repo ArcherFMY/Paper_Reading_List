@@ -33,6 +33,7 @@
 
 #### Video
 - [Visual Object Tracking](Video-01-Visual-Object-Tracking.md)
+- [Video Object Segmentation](Video-02-Video-Object-Segmentation.md)
 
 #### Others
 - [Others](Others.md)
