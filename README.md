@@ -34,7 +34,7 @@
 #### Video
 - [Visual Object Tracking](Video-01-Visual-Object-Tracking.md)
 - [Video Object Segmentation](Video-02-Video-Object-Segmentation.md)
-  >DATASETS [[DAVIS]](https://davischallenge.org/davis2017/soa_compare.html)[[YouTube]](https://youtube-vos.org/)[[SegTrack_v2]](https://www.cc.gatech.edu/~fli/SegTrack2/dataset.html)
+  >DATASETS [[DAVIS]](https://davischallenge.org/davis2017/soa_compare.html)  [[YouTube-VOS]](https://youtube-vos.org/)  [[SegTrack_v2]](https://www.cc.gatech.edu/~fli/SegTrack2/dataset.html)
 
 #### Others
 - [Others](Others.md)
