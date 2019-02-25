@@ -26,7 +26,7 @@
 ### 2017
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|10|![LucidDream](data/LucidDream.png)|__Lucid Data Dreaming for Video Object Segmentation__|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
+|10|![LucidDream](data/LucidDream.png)|__Lucid Data Dreaming for Video Object Segmentation__|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|arXiv pre-print|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
 |9|![MaskRNN](data/MaskRNN.png)|__MaskRNN: Instance Level Video ObjectSegmentation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__NIPS 2017__|[`project page`](https://sites.google.com/view/yuantinghu/maskrnn)|
 |8|![SegFlow](data/SegFlow.png)|__SegFlow: Joint Learning for Video Object Segmentation and Optical Flow__|Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, Ming-Hsuan Yang|__ICCV 2017__|[`github`](https://github.com/JingchunCheng/SegFlow)|
 |7|![PLM](data/PLM.png)|__Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks__|Jae Shin Yoon, Francois Rameau, Junsik Kim, Seokju Lee, Seunghak Shin, In So Kweon|__ICCV 2017__|[`project page`](https://jsyoon4325.wixsite.com/pix-matching)|
