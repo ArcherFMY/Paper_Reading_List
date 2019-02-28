@@ -1,4 +1,24 @@
 ## Salient Object Detection
+
+### 2019
+|No.   |Figure   |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|3|![ML-MS](data/ML-MS.png)|__A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision__|Runmin Wu, Huchuan Lu|__CVPR 2019__|COMING SOON|
+|2|![AFNet](data/AFNet.png)|__Attentive Feedback Network for Boundary-aware Salient Object Detection__|Mengyang Feng, Huchuan Lu|__CVPR 2019__|[`github`](https://github.com/ArcherFMY/AFNet)|
+|1|![MWS](data/MWS.png)|__multi-source weak supervision for saliency detection__|Yu Zeng, Huchuan Lu|__CVPR 2019__|[`github`](https://github.com/zengxianyu/mws)|
+
+### 2018
+|No.   |Figure   |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|8|![LPS](data/LPS.png)|__Learning to Promote Saliency Detectors__|Yu Zeng, Huchuan Lu, Lihe Zhang, Mengyang Feng, Ali Borji|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zeng_Learning_to_Promote_CVPR_2018_paper.pdf) [`github`](https://github.com/zengxianyu/lps)|
+|7|![C2SNet](data/C2SNet.png)|__Contour Knowledge Transfer for Salient Object Detection__|Xin Li, Fan Yang, Hong Cheng, Wei Liu, Dinggang Shen|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Li_Contour_Knowledge_Transfer_ECCV_2018_paper.pdf) [`github`](https://github.com/lixin666/C2SNet)|
+|6|![R3Net](data/R3Net.png)|__R3Net: Recurrent Residual Refinement Network for Saliency Detection__|Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, and Pheng-Ann Heng|__IJCAI 2018__|[`paper`](https://www.ijcai.org/proceedings/2018/0095.pdf) [`github`](https://github.com/zijundeng/R3Net)|
+|5|![PiCANet](data/PiCANet.png)|__PiCANet: Learning Pixel-Wise Contextual Attention for Saliency Detection__|Nian Liu, Junwei Han, Ming-Hsuan Yang|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_PiCANet_Learning_Pixel-Wise_CVPR_2018_paper.pdf) [`github`](https://github.com/nian-liu/PiCANet)|
+|4|![RAS](data/RAS.png)|__Reverse Attention for Salient Object Detection__|Shuhan Chen, Xiuli Tan, Ben Wang and Xuelong Hu|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shuhan_Chen_Reverse_Attention_for_ECCV_2018_paper.pdf) [`github`](https://github.com/ShuhanChen/RAS_ECCV18)|
+|3|![PAGR](data/PAGR.png)|__Progressive Attention Guided Recurrent Network for Salient Object Detection__|Xiaoning Zhang, Tiantian Wang, Jinqing Qi, Huchuan Lu, Gang Wang|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Progressive_Attention_Guided_CVPR_2018_paper.pdf) [`github`](https://github.com/zhangxiaoning666/PAGR)|
+|2|![DGRL](data/DGRL.png)|__Detect Globally, Refine Locally: A Novel Approach to Saliency Detection__|Tiantian Wang, Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Detect_Globally_Refine_CVPR_2018_paper.pdf) [`github`](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally)|
+|1|![BMPM](data/BMPM.png)|__A Bi-Directional Message Passing Model for Salient Object Detection__|Lu Zhang, Ju Dai, Huchuan Lu, You He, Gang Wang|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_A_Bi-Directional_Message_CVPR_2018_paper.pdf)|
+
 ### 2017
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
