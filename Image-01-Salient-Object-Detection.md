@@ -3,6 +3,8 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|6|![RFCN-ext](data/RFCN-ext.png)|__Salient Object Detection with Recurrent Fully Convolutional Networks__|Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan|__PAMI 2019__|[`paper`](https://pan.baidu.com/s/1CQu5ooyPFJR0xh311ipKyA)[`code`](https://pan.baidu.com/s/1XGhct3zvYIRKPafx2yAL-Q)|
+|5|![DEF](data/DEF.png)|__Deep Embedding Features for Salient Object Detection__|Yunzhi Zhuge, Yu Zeng, Huchuan Lu|__AAAI 2019__|[`paper`](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)|
 |4|![CAPSAL](data/CAPSAL.png)|__Capsal: Leveraging Captioning to Boost Semantics for Salient Object Detection__|Lu Zhang, Huchuan Lu|__CVPR 2019__|COMING SOON|
 |3|![ML-MS](data/ML-MS.png)|__A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision__|Runmin Wu, Huchuan Lu|__CVPR 2019__|COMING SOON|
 |2|![AFNet](data/AFNet.png)|__Attentive Feedback Network for Boundary-aware Salient Object Detection__|Mengyang Feng, Huchuan Lu|__CVPR 2019__|[`github`](https://github.com/ArcherFMY/AFNet)|
@@ -11,6 +13,7 @@
 ### 2018
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|9|![HCA](data/HCA.png)|__Hierarchical Cellular Automata for Visual Saliency__|Yao Qin, Mengyang Feng, Huchuan Lu, Garrison W. Cottrell|__IJCV 2018__|[`github`](https://github.com/ArcherFMY/HCA_saliency_codes)|
 |8|![LPS](data/LPS.png)|__Learning to Promote Saliency Detectors__|Yu Zeng, Huchuan Lu, Lihe Zhang, Mengyang Feng, Ali Borji|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zeng_Learning_to_Promote_CVPR_2018_paper.pdf) [`github`](https://github.com/zengxianyu/lps)|
 |7|![C2SNet](data/C2SNet.png)|__Contour Knowledge Transfer for Salient Object Detection__|Xin Li, Fan Yang, Hong Cheng, Wei Liu, Dinggang Shen|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Li_Contour_Knowledge_Transfer_ECCV_2018_paper.pdf) [`github`](https://github.com/lixin666/C2SNet)|
 |6|![R3Net](data/R3Net.png)|__R3Net: Recurrent Residual Refinement Network for Saliency Detection__|Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, and Pheng-Ann Heng|__IJCAI 2018__|[`paper`](https://www.ijcai.org/proceedings/2018/0095.pdf) [`github`](https://github.com/zijundeng/R3Net)|
