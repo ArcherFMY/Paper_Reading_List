@@ -3,6 +3,7 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|4|![CAPSAL](data/CAPSAL.png)|__Capsal: Leveraging Captioning to Boost Semantics for Salient Object Detection__|Lu Zhang, Huchuan Lu|__CVPR 2019__|COMING SOON|
 |3|![ML-MS](data/ML-MS.png)|__A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision__|Runmin Wu, Huchuan Lu|__CVPR 2019__|COMING SOON|
 |2|![AFNet](data/AFNet.png)|__Attentive Feedback Network for Boundary-aware Salient Object Detection__|Mengyang Feng, Huchuan Lu|__CVPR 2019__|[`github`](https://github.com/ArcherFMY/AFNet)|
 |1|![MWS](data/MWS.png)|__multi-source weak supervision for saliency detection__|Yu Zeng, Huchuan Lu|__CVPR 2019__|[`github`](https://github.com/zengxianyu/mws)|
