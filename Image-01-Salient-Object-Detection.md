@@ -13,6 +13,8 @@
 ### 2018
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|11|![LE](data/LE.png)|__Exemplar-aided Salient Object Detection via Joint Latent Space Embedding__|Yuqiu Kong, Jianming Zhang, Huchuan Lu, Xiuping Liu|__TIP 2018__|[`paper`](https://pan.baidu.com/s/1p4cn-2wktOnMVZveHNARzg)|
+|10|![UGA](data/UGA.png)|__An unsupervised game-theoretic approach to saliency detection__|Yu Zeng, Mengyang Feng,, Huchuan Lu, Ali Borji|__TIP 2018__|[`paper`](https://pan.baidu.com/s/1U1O4oFK6ZALSghPjJv_5nA)[`github`](https://github.com/zengxianyu/uga)|
 |9|![HCA](data/HCA.png)|__Hierarchical Cellular Automata for Visual Saliency__|Yao Qin, Mengyang Feng, Huchuan Lu, Garrison W. Cottrell|__IJCV 2018__|[`github`](https://github.com/ArcherFMY/HCA_saliency_codes)|
 |8|![LPS](data/LPS.png)|__Learning to Promote Saliency Detectors__|Yu Zeng, Huchuan Lu, Lihe Zhang, Mengyang Feng, Ali Borji|__CVPR 2018__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zeng_Learning_to_Promote_CVPR_2018_paper.pdf) [`github`](https://github.com/zengxianyu/lps)|
 |7|![C2SNet](data/C2SNet.png)|__Contour Knowledge Transfer for Salient Object Detection__|Xin Li, Fan Yang, Hong Cheng, Wei Liu, Dinggang Shen|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Li_Contour_Knowledge_Transfer_ECCV_2018_paper.pdf) [`github`](https://github.com/lixin666/C2SNet)|
