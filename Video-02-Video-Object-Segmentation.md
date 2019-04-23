@@ -3,7 +3,7 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|5|![FUGVOS](data/FUGVOS.png)|__Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks__|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09791.pdf)|
+|7|![FUGVOS](data/FUGVOS.png)|__Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks__|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09791.pdf)|
 |6|![MHP-VOS](data/MHP-VOS.png)|__MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation__|Shuangjie Xu1, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou|__CVPR 2019__|[`github`](https://github.com/shuangjiexu/MHP-VOS)|
 |5|![BubbleNets](data/BubbleNets.png)|__BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames__|Brent A. Griffin, Jason J. Corso|__CVPR 2019__|[`github`](https://github.com/griffbr/BubbleNets)|
 |4|![FEELVOS](data/FEELVOS.png)|__FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation__|Paul Voigtlaender, Yuning Chai, Florian Schroff, Hartwig Adam|__CVPR 2019__|[`github`](https://github.com/tensorflow/models/tree/master/research/feelvos)|
