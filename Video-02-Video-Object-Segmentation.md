@@ -1,5 +1,16 @@
 ## Video Object Segmentation
 
+### 2019
+|No.   |Figure   |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|5|![FUGVOS](data/FUGVOS.png)|__Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks__|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09791.pdf)|
+|6|![MHP-VOS](data/MHP-VOS.png)|__MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation__|Shuangjie Xu1, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou|__CVPR 2019__|[`github`](https://github.com/shuangjiexu/MHP-VOS)|
+|5|![BubbleNets](data/BubbleNets.png)|__BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames__|Brent A. Griffin, Jason J. Corso|__CVPR 2019__|[`github`](https://github.com/griffbr/BubbleNets)|
+|4|![FEELVOS](data/FEELVOS.png)|__FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation__|Paul Voigtlaender, Yuning Chai, Florian Schroff, Hartwig Adam|__CVPR 2019__|[`github`](https://github.com/tensorflow/models/tree/master/research/feelvos)|
+|3|![MOTS](data/MOTS.png)|__MOTS: Multi-Object Tracking and Segmentation__|Paul Voigtlaender, Michael Krause, Aljosa O ˘ sep, Jonathon Luiten|__CVPR 2019__|[`project page`](https://www.vision.rwth-aachen.de/page/mots)|
+|2|![RVOS](data/RVOS.png)|__RVOS: End-to-End Recurrent Network for Video Object Segmentation__|Carles Ventura, Miriam Bellver, Andreu Girbau, Amaia Salvador, Ferran Marques and Xavier Giro-i-Nieto|__CVPR 2019__|[`project page`](https://imatge-upc.github.io/rvos/)|
+|1|![STCNN](data/STCNN.png)|__Spatiotemporal CNN for Video Object Segmentation__|Kai Xu, Longyin Wen, Guorong Li , Liefeng Bo, Qingming Huang|__CVPR 2019__|[`github`](https://github.com/longyin880815/STCNN)|
+
 ### 2018
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
@@ -26,7 +37,8 @@
 ### 2017
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|10|![LucidDream](data/LucidDream.png)|__Lucid Data Dreaming for Video Object Segmentation__|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|arXiv pre-print|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
+|11|![OnAVOS](data/OnAVOS.png)|__Online Adaptation of Convolutional Neural Networks for Video Object Segmentation__|Paul Voigtlaender, Bastian Leibe|__BMVC 2017__|[`paper`](https://arxiv.org/pdf/1706.09364.pdf)[`code`](https://www.vision.rwth-aachen.de/software/OnAVOS)|
+|10|![LucidDream](data/LucidDream.png)|__Lucid Data Dreaming for Video Object Segmentation__|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|__IJCV 2019__|[`github`](https://github.com/ankhoreva/LucidDataDreaming)|
 |9|![MaskRNN](data/MaskRNN.png)|__MaskRNN: Instance Level Video ObjectSegmentation__|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|__NIPS 2017__|[`project page`](https://sites.google.com/view/yuantinghu/maskrnn)|
 |8|![SegFlow](data/SegFlow.png)|__SegFlow: Joint Learning for Video Object Segmentation and Optical Flow__|Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, Ming-Hsuan Yang|__ICCV 2017__|[`github`](https://github.com/JingchunCheng/SegFlow)|
 |7|![PLM](data/PLM.png)|__Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks__|Jae Shin Yoon, Francois Rameau, Junsik Kim, Seokju Lee, Seunghak Shin, In So Kweon|__ICCV 2017__|[`project page`](https://jsyoon4325.wixsite.com/pix-matching)|
