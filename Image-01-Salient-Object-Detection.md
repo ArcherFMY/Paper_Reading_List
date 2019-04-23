@@ -3,6 +3,9 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|9|![poolnet](data/poolnet.png)|__A Simple Pooling-Based Design for Real-Time Salient Object Detection__|Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09569.pdf)|
+|8|![CPD](data/CPD.png)|__Cascaded Partial Decoder for Fast and Accurate Salient Object Detection__|Zhe Wu, Li Su, and Qingming Huang|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.08739.pdf) [`github`](https://github.com/wuzhe71/CPD)|
+|7|![PyFANet](data/PyFANet.png)|__Pyramid Feature Attention Network for Saliency detection__|Ting Zhao, Xiangqian Wu|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1903.00179.pdf)|
 |6|![RFCN-ext](data/RFCN-ext.png)|__Salient Object Detection with Recurrent Fully Convolutional Networks__|Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan|__PAMI 2019__|[`paper`](https://pan.baidu.com/s/1CQu5ooyPFJR0xh311ipKyA)[`code`](https://pan.baidu.com/s/1XGhct3zvYIRKPafx2yAL-Q)|
 |5|![DEF](data/DEF.png)|__Deep Embedding Features for Salient Object Detection__|Yunzhi Zhuge, Yu Zeng, Huchuan Lu|__AAAI 2019__|[`paper`](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)|
 |4|![CAPSAL](data/CAPSAL.png)|__Capsal: Leveraging Captioning to Boost Semantics for Salient Object Detection__|Lu Zhang, Jianming Zhang, Zhe Lin, Huchuan Lu, You He|__CVPR 2019__|COMING SOON|
