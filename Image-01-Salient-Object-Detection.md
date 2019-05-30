@@ -3,6 +3,7 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|10|![basnet](data/basnet.png)|__BASNet: Boundary-Aware Salient Object Detection__|Xuebin Qin, Zichen Zhang, Chenyang Huang, Chao Gao, Masood Dehghan and Martin Jagersand|__CVPR 2019__|[`paper`](https://webdocs.cs.ualberta.ca/~xuebin/BASNet.pdf) [`github`](https://github.com/NathanUA/BASNet)|
 |9|![poolnet](data/poolnet.png)|__A Simple Pooling-Based Design for Real-Time Salient Object Detection__|Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09569.pdf) [`github`](https://github.com/backseason/PoolNet)|
 |8|![CPD](data/CPD.png)|__Cascaded Partial Decoder for Fast and Accurate Salient Object Detection__|Zhe Wu, Li Su, and Qingming Huang|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.08739.pdf) [`github`](https://github.com/wuzhe71/CPD)|
 |7|![PyFANet](data/PyFANet.png)|__Pyramid Feature Attention Network for Saliency detection__|Ting Zhao, Xiangqian Wu|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1903.00179.pdf) [`github`](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)|
