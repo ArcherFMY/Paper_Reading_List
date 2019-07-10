@@ -3,6 +3,7 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|11|![videoSOD](data/videoSOD.png)|__Shifting More Attention to Video Salient Object Detection__|Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen|__CVPR 2019__|[`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf) [`github`](https://github.com/DengPingFan/DAVSOD)|
 |10|![basnet](data/basnet.png)|__BASNet: Boundary-Aware Salient Object Detection__|Xuebin Qin, Zichen Zhang, Chenyang Huang, Chao Gao, Masood Dehghan and Martin Jagersand|__CVPR 2019__|[`paper`](https://webdocs.cs.ualberta.ca/~xuebin/BASNet.pdf) [`github`](https://github.com/NathanUA/BASNet)|
 |9|![poolnet](data/poolnet.png)|__A Simple Pooling-Based Design for Real-Time Salient Object Detection__|Jiang-Jiang Liu, Qibin Hou, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09569.pdf) [`github`](https://github.com/backseason/PoolNet)|
 |8|![CPD](data/CPD.png)|__Cascaded Partial Decoder for Fast and Accurate Salient Object Detection__|Zhe Wu, Li Su, and Qingming Huang|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.08739.pdf) [`github`](https://github.com/wuzhe71/CPD)|
@@ -17,6 +18,7 @@
 ### 2018
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|12|![SOC](data/SOC.png)|__Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground__|Deng-Ping Fan, Ming-Ming Cheng, Jiang-Jiang Liu,  Shang-Hua Gao, Qibin Hou and Ali Borji|__ECCV 2018__|[`paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Deng-Ping_Fan_Salient_Objects_in_ECCV_2018_paper.pdf) [`project page`](http://mmcheng.net/SOCBenchmark/)|
 |11|![LE](data/LE.png)|__Exemplar-aided Salient Object Detection via Joint Latent Space Embedding__|Yuqiu Kong, Jianming Zhang, Huchuan Lu, Xiuping Liu|__TIP 2018__|[`paper`](https://pan.baidu.com/s/1p4cn-2wktOnMVZveHNARzg)|
 |10|![UGA](data/UGA.png)|__An unsupervised game-theoretic approach to saliency detection__|Yu Zeng, Mengyang Feng,, Huchuan Lu, Ali Borji|__TIP 2018__|[`paper`](https://pan.baidu.com/s/1U1O4oFK6ZALSghPjJv_5nA)[`github`](https://github.com/zengxianyu/uga)|
 |9|![HCA](data/HCA.png)|__Hierarchical Cellular Automata for Visual Saliency__|Yao Qin, Mengyang Feng, Huchuan Lu, Garrison W. Cottrell|__IJCV 2018__|[`github`](https://github.com/ArcherFMY/HCA_saliency_codes)|
