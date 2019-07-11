@@ -3,6 +3,7 @@
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|9|![AGS](data/AGS.png)|__Learning Unsupervised Video Object Segmentation through Visual Attention__|Wenguan Wang, Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven C. H. Hoi and Haibin Ling|__CVPR 2019__|[`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention_CVPR_2019_paper.pdf) [`github`](https://github.com/wenguanwang/AGS)|
 |8|![AGAME](data/AGAME.png)|__A Generative Appearance Model for End-to-end Video Object Segmentation__|Joakim Johnander, Martin Danelljan, Emil Brissman, Fahad Shahbaz Khan|__CVPR 2019__|[`paper`](http://openaccess.thecvf.com/content_CVPR_2019/papers/Johnander_A_Generative_Appearance_Model_for_End-To-End_Video_Object_Segmentation_CVPR_2019_paper.pdf) [`github`](https://github.com/joakimjohnander/agame-vos)|
 |7|![FUGVOS](data/FUGVOS.png)|__Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks__|Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim|__CVPR 2019__|[`paper`](https://arxiv.org/pdf/1904.09791.pdf)|
 |6|![MHP-VOS](data/MHP-VOS.png)|__MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation__|Shuangjie Xu1, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou|__CVPR 2019__|[`github`](https://github.com/shuangjiexu/MHP-VOS)|
