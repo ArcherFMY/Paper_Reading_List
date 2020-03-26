@@ -1,5 +1,10 @@
 ## Video Object Segmentation
 
+### 2020
+|No.   |Figure   |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|1|![TargetModel](data/TargetModel.png)|__Learning Fast and Robust Target Models for Video Object Segmentation__|Andreas Robinson, Felix Järemo Lawin, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)|
+
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
