@@ -1,4 +1,4 @@
-# Instance Aware Paper List
+# Paper List
 - The goal of this document is to provide a reading list for papers related to Deformable Convolution Network.
 
 ## Papers
