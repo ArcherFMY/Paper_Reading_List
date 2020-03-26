@@ -6,7 +6,6 @@ Paper list.
 
 |No.|Figure   |Title   |Authors  |Pub.  |Links|
 |:-----:|:-----:|:-----:|:-----:|:---:|:------:|
-http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf
 |0|![DCN](data/DCN.png)|__Deformable Convolutional Networks__|Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei|__ICCV 2017__|[`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)|
 |1|![VIS](data/VIS.png)|__Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation__|Gedas Bertasius, Lorenzo Torresani|__arXiv__|[`paper`](https://arxiv.org/abs/1912.04573)|
 |2|![TDAN](data/TDAN.png)|__TDAN: Temporally Deformable Alignment Network for Video Super-Resolution__|Yapeng Tian, Yulun Zhang, Yun Fu, and Chenliang Xu|__arXiv__|[`paper`](https://arxiv.org/abs/1812.02898)|
