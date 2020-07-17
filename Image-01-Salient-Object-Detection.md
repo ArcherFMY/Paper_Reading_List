@@ -1,5 +1,31 @@
 ## Salient Object Detection
 
+### 2020
+|No.   |Figure   |Title   |Authors  |Pub.  |Links|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|22| placeholder |__Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
+|21| placeholder |__A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
+|20| placeholder |__Unsupervised Multi-View CNN for Salient View Selection of 3D Objects and Scenes__| placeholder |__ECCV 2020__| placeholder |
+|19| placeholder |__Accurate RGB-D Salient Object Detection via Collaborative Learning__| placeholder |__ECCV 2020__| placeholder |
+|18| placeholder |__Cross-Modal Weighting Network for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
+|17| placeholder |__Cascade Graph Neural Networks for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
+|16| placeholder |__BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network__| placeholder |__ECCV 2020__| placeholder |
+|15| placeholder |__Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
+|14| placeholder |__RGB-D Salient Object Detection with Cross-Modality Modulation and Selection__| placeholder |__ECCV 2020__| placeholder |
+|13| placeholder |__Highly Efficient Salient Object Detection with 100K Parameters__| placeholder |__ECCV 2020__| placeholder |
+|12| placeholder |__Suppress and Balance: A Simple Gated Network for Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
+|11| placeholder |__Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection__| placeholder |__ECCV 2020__| placeholder |
+|10| placeholder |__Residual Learning for Salient Object Detection__|Mengyang Feng, Huchuan Lu, Yizhou Yu|__TIP 2020__|[`paper`](https://ieeexplore.ieee.org/document/9018384)|
+|9| placeholder |__Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection__|Huajun Zhou, Xiaohua Xie, Jian-Huang Lai, Zixuan Chen, Lingxiao Yang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)|
+|8| placeholder |__Weakly-Supervised Salient Object Detection via Scribble Annotations__|Jing Zhang, Xin Yu, Aixuan Li, Peipei Song, Bowen Liu, Yuchao Dai|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Weakly-Supervised_Salient_Object_Detection_via_Scribble_Annotations_CVPR_2020_paper.pdf)|
+|7| placeholder |__UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders__|Jing Zhang, Deng-Ping Fan, Yuchao Dai, Saeed Anwar, Fatemeh Sadat Saleh, Tong Zhang, Nick Barnes|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf)|
+|6| placeholder |__Select, Supplement and Focus for RGB-D Saliency Detection__|Miao Zhang, Weisong Ren, Yongri Piao, Zhengkun Rong, Huchuan Lu|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Select_Supplement_and_Focus_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)|
+|5| placeholder |__Label Decoupling Framework for Salient Object Detection__|Yongri Piao, Zhengkun Rong, Miao Zhang, Weisong Ren, Huchuan Lu|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)|
+|4| placeholder |__A2dele: Adaptive and Attentive Depth Distiller for Efﬁcient RGB-D Salient Object Detection__|Yongri Piao, Zhengkun Rong, Miao Zhang, Weisong Ren, Huchuan Lu|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Piao_A2dele_Adaptive_and_Attentive_Depth_Distiller_for_Efficient_RGB-D_Salient_CVPR_2020_paper.pdf)|
+|3| placeholder |__Multi-scale Interactive Network for Salient Object Detection__|Nian Liu, Ni Zhang, Junwei Han|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Multi-Scale_Interactive_Network_for_Salient_Object_Detection_CVPR_2020_paper.pdf)|
+|2| placeholder |__Learning Selective Self-Mutual Attention for RGB-D Saliency Detection__|Nian Liu, Ni Zhang, Junwei Han|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Learning_Selective_Self-Mutual_Attention_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)|
+|1| placeholder |__JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection__|Keren Fu, Deng-Ping Fan, Ge-Peng ji, Qijun Zhao|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)|
+
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
