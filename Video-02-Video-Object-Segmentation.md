@@ -3,7 +3,15 @@
 ### 2020
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|1|![TargetModel](data/TargetModel.png)|__Learning Fast and Robust Target Models for Video Object Segmentation__|Andreas Robinson, Felix Järemo Lawin, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)|
+|9|placeholder|__Memory Enhanced Global-Local Aggregation for Video Object Detection__|Yihong Chen, Yue Cao, Han Hu, Liwei Wang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Memory_Enhanced_Global-Local_Aggregation_for_Video_Object_Detection_CVPR_2020_paper.pdf)|
+|8|placeholder|__Learning Video Object Segmentation from Unlabeled Videos__|Jiyang Yu, Ravi Ramamoorthi|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)|
+|7|placeholder|__Temporally Distributed Networks for Fast Video Semantic Segmentation__|Xuhua Huang, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Temporally_Distributed_Networks_for_Fast_Video_Semantic_Segmentation_CVPR_2020_paper.pdf)|
+|6|placeholder|__Fast Video Object Segmentation With Temporal Aggregation Network and Dynamic Template Matching__|Xuhua Huang, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Fast_Video_Object_Segmentation_With_Temporal_Aggregation_Network_and_Dynamic_CVPR_2020_paper.pdf)|
+|5|placeholder|__Memory Aggregation Networks for Efficient Interactive Video Object Segmentation__|Jiaxu Miao, Yunchao Wei, Yi Yang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miao_Memory_Aggregation_Networks_for_Efficient_Interactive_Video_Object_Segmentation_CVPR_2020_paper.pdf)|
+|4|placeholder|__Fast Template Matching and Update for Video Object Tracking and Segmentation__|Mingjie Sun, Jimin Xiao, Eng Gee Lim, Bingfeng Zhang, Yao Zhao|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Fast_Template_Matching_and_Update_for_Video_Object_Tracking_and_CVPR_2020_paper.pdf)|
+|3|placeholder|__A Transductive Approach for Video Object Segmentation__|Yizhuo Zhang, Zhirong Wu, Houwen Peng, Stephen Lin|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_A_Transductive_Approach_for_Video_Object_Segmentation_CVPR_2020_paper.pdf)|
+|2|placeholder|__State-Aware Tracker for Real-Time Video Object Segmentation__|Xi Chen, Zuoxin Li, Ye Yuan, Gang Yu, Jianxin Shen, Donglian Qi|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_State-Aware_Tracker_for_Real-Time_Video_Object_Segmentation_CVPR_2020_paper.pdf)|
+|1|![TargetModel](data/TargetModel.png)|__Learning Fast and Robust Target Models for Video Object Segmentation__|Andreas Robinson, Felix Järemo Lawin, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Robinson_Learning_Fast_and_Robust_Target_Models_for_Video_Object_Segmentation_CVPR_2020_paper.pdf)|
 
 ### 2019
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
