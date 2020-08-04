@@ -3,9 +3,24 @@
 ### 2020
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+|24|placeholder|__Learning Discriminative Feature with CRF for Unsupervised Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
+|23|placeholder|__CenterNet Heatmap Propagation for Real-time Video Object Detection__|placeholder|__ECCV 2020__|poster|
+|22|placeholder|__Kernelized Memory Network for Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
+|21|placeholder|__Interactive Video Object Segmentation Using Global and Local Transfer Modules__|placeholder|__ECCV 2020__|poster|
+|20|placeholder|__URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark__|placeholder|__ECCV 2020__|poster|
+|19|placeholder|__Unsupervised Video Object Segmentation with Joint Hotspot Tracking__|placeholder|__ECCV 2020__|poster|
+|18|placeholder|__ScribbleBox: Interactive Annotation Framework for Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
+|17|placeholder|__STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos__|placeholder|__ECCV 2020__|poster|
+|16|placeholder|__Fast Video Object Segmentation using Global Context Module__|placeholder|__ECCV 2020__|poster|
+|15|placeholder|__Efficient Semantic Video Segmentation with Per-frame Inference__|placeholder|__ECCV 2020__|poster|
+|14|placeholder|__Learning Object Depth from Camera Motion and Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
+|13|placeholder|__Collaborative Video Object Segmentation by Foreground-Background Integration__|placeholder|__ECCV 2020__|spotlight|
+|12|placeholder|__TENet: Triple Excitation Network for Video Salient Object Detection__|placeholder|__ECCV 2020__|spotlight|
+|11|placeholder|__Learning What to Learn for Video Object Segmentation__|placeholder|__ECCV 2020__|oral|
+|10|placeholder|__Video Object Segmentation with Graph Memory Network__|placeholder|__ECCV 2020__|spotlight|
 |9|placeholder|__Memory Enhanced Global-Local Aggregation for Video Object Detection__|Yihong Chen, Yue Cao, Han Hu, Liwei Wang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Memory_Enhanced_Global-Local_Aggregation_for_Video_Object_Detection_CVPR_2020_paper.pdf)|
 |8|placeholder|__Learning Video Object Segmentation from Unlabeled Videos__|Jiyang Yu, Ravi Ramamoorthi|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)|
-|7|placeholder|__Temporally Distributed Networks for Fast Video Semantic Segmentation__|Xuhua Huang, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Temporally_Distributed_Networks_for_Fast_Video_Semantic_Segmentation_CVPR_2020_paper.pdf)|
+|7|placeholder|__Temporally Distributed Networks for Fast Video Semantic Segmentation__|Ping Hu, Fabian Caba, Oliver Wang, Zhe Lin, Stan Sclaroff, Federico Perazzi|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Temporally_Distributed_Networks_for_Fast_Video_Semantic_Segmentation_CVPR_2020_paper.pdf)|
 |6|placeholder|__Fast Video Object Segmentation With Temporal Aggregation Network and Dynamic Template Matching__|Xuhua Huang, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Fast_Video_Object_Segmentation_With_Temporal_Aggregation_Network_and_Dynamic_CVPR_2020_paper.pdf)|
 |5|placeholder|__Memory Aggregation Networks for Efficient Interactive Video Object Segmentation__|Jiaxu Miao, Yunchao Wei, Yi Yang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miao_Memory_Aggregation_Networks_for_Efficient_Interactive_Video_Object_Segmentation_CVPR_2020_paper.pdf)|
 |4|placeholder|__Fast Template Matching and Update for Video Object Tracking and Segmentation__|Mingjie Sun, Jimin Xiao, Eng Gee Lim, Bingfeng Zhang, Yao Zhao|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Fast_Template_Matching_and_Update_for_Video_Object_Tracking_and_CVPR_2020_paper.pdf)|
