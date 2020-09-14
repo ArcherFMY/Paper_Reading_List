@@ -3,18 +3,18 @@
 ### 2020
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|22| placeholder |__Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
-|21| placeholder |__A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
-|20| placeholder |__Unsupervised Multi-View CNN for Salient View Selection of 3D Objects and Scenes__| placeholder |__ECCV 2020__| placeholder |
-|19| placeholder |__Accurate RGB-D Salient Object Detection via Collaborative Learning__| placeholder |__ECCV 2020__| placeholder |
-|18| placeholder |__Cross-Modal Weighting Network for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
-|17| placeholder |__Cascade Graph Neural Networks for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
-|16| placeholder |__BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network__| placeholder |__ECCV 2020__| placeholder |
-|15| placeholder |__Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
-|14| placeholder |__RGB-D Salient Object Detection with Cross-Modality Modulation and Selection__| placeholder |__ECCV 2020__| placeholder |
-|13| placeholder |__Highly Efficient Salient Object Detection with 100K Parameters__| placeholder |__ECCV 2020__| placeholder |
-|12| placeholder |__Suppress and Balance: A Simple Gated Network for Salient Object Detection__| placeholder |__ECCV 2020__| placeholder |
-|11| placeholder |__Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection__| placeholder |__ECCV 2020__| placeholder |
+|22| placeholder |__Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection__| Youwei Pang, Lihe Zhang, Xiaoqi Zhao, Huchuan Lu |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.06227) |
+|21| placeholder |__A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection__| Xiaoqi Zhao, Lihe Zhang, Youwei Pang, Huchuan Lu, Lei Zhang |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.06811) |
+|20| placeholder |__Unsupervised Multi-View CNN for Salient View Selection of 3D Objects and Scenes__| Ran Song, Wei Zhang, Yitian Zhao, and Yonghuai Liu |__ECCV 2020__| [`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640443.pdf) |
+|19| placeholder |__Accurate RGB-D Salient Object Detection via Collaborative Learning__| Wei Ji, Jingjing Li, Miao Zhang, Yongri Piao, Huchuan Lu |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.11782) |
+|18| placeholder |__Cross-Modal Weighting Network for RGB-D Salient Object Detection__| Gongyang Li, Zhi Liu, Linwei Ye, Yang Wang, Haibin Ling |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.04901) |
+|17| placeholder |__Cascade Graph Neural Networks for RGB-D Salient Object Detection__| Ao Luo, Xin Li, Fan Yang, Zhicheng Jiao, Hong Cheng, Siwei Lyu |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2008.03087) |
+|16| placeholder |__BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network__| Deng-Ping Fan, Yingjie Zhai, Ali Borji, Jufeng Yang, Ling Shao |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.02713v1) |
+|15| placeholder |__Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection__| Shuhan Chen, Yun Fu |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2008.07064) |
+|14| placeholder |__RGB-D Salient Object Detection with Cross-Modality Modulation and Selection__| Chongyi Li, Runmin Cong, Yongri Piao, Qianqian Xu, Chen Change Loy |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.07051) |
+|13| placeholder |__Highly Efficient Salient Object Detection with 100K Parameters__| Shang-Hua Gao, Yong-Qiang Tan, Ming-Ming Cheng, Chengze Lu, Yunpeng Chen, Shuicheng Yan |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2003.05643) |
+|12| placeholder |__Suppress and Balance: A Simple Gated Network for Salient Object Detection__| Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang |__ECCV 2020__| [`paper`](https://arxiv.org/abs/2007.08074) |
+|11| placeholder |__Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection__| Miao Zhang, Sun Xiao Fei, Jie Liu, Shuang Xu, Yongri Piao, and Huchuan Lu |__ECCV 2020__| [`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730375.pdf) |
 |10| placeholder |__Residual Learning for Salient Object Detection__|Mengyang Feng, Huchuan Lu, Yizhou Yu|__TIP 2020__|[`paper`](https://ieeexplore.ieee.org/document/9018384) [`github`](https://github.com/ArcherFMY/R2Net)|
 |9| placeholder |__Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection__|Huajun Zhou, Xiaohua Xie, Jian-Huang Lai, Zixuan Chen, Lingxiao Yang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)|
 |8| placeholder |__Weakly-Supervised Salient Object Detection via Scribble Annotations__|Jing Zhang, Xin Yu, Aixuan Li, Peipei Song, Bowen Liu, Yuchao Dai|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Weakly-Supervised_Salient_Object_Detection_via_Scribble_Annotations_CVPR_2020_paper.pdf)|
