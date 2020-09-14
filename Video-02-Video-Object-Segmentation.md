@@ -3,21 +3,21 @@
 ### 2020
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|24|placeholder|__Learning Discriminative Feature with CRF for Unsupervised Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
-|23|placeholder|__CenterNet Heatmap Propagation for Real-time Video Object Detection__|placeholder|__ECCV 2020__|poster|
-|22|placeholder|__Kernelized Memory Network for Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
-|21|placeholder|__Interactive Video Object Segmentation Using Global and Local Transfer Modules__|placeholder|__ECCV 2020__|poster|
-|20|placeholder|__URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark__|placeholder|__ECCV 2020__|poster|
-|19|placeholder|__Unsupervised Video Object Segmentation with Joint Hotspot Tracking__|placeholder|__ECCV 2020__|poster|
-|18|placeholder|__ScribbleBox: Interactive Annotation Framework for Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
-|17|placeholder|__STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos__|placeholder|__ECCV 2020__|poster|
-|16|placeholder|__Fast Video Object Segmentation using Global Context Module__|placeholder|__ECCV 2020__|poster|
-|15|placeholder|__Efficient Semantic Video Segmentation with Per-frame Inference__|placeholder|__ECCV 2020__|poster|
-|14|placeholder|__Learning Object Depth from Camera Motion and Video Object Segmentation__|placeholder|__ECCV 2020__|poster|
-|13|placeholder|__Collaborative Video Object Segmentation by Foreground-Background Integration__|placeholder|__ECCV 2020__|spotlight|
-|12|placeholder|__TENet: Triple Excitation Network for Video Salient Object Detection__|placeholder|__ECCV 2020__|spotlight|
-|11|placeholder|__Learning What to Learn for Video Object Segmentation__|placeholder|__ECCV 2020__|oral|
-|10|placeholder|__Video Object Segmentation with Graph Memory Network__|placeholder|__ECCV 2020__|spotlight|
+|24|placeholder|__Learning Discriminative Feature with CRF for Unsupervised Video Object Segmentation__|Mingmin Zhen, Shiwei Li, Lei Zhou, Jiaxiang Shang, Haoan Feng, Tian Fang, Long Quan|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2008.01270)|
+|23|placeholder|__CenterNet Heatmap Propagation for Real-time Video Object Detection__|Zhujun Xu, Emir Hrustic, and Damien Vivet|__ECCV 2020__|[`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700222.pdf)|
+|22|placeholder|__Kernelized Memory Network for Video Object Segmentation__|Hongje Seong, Junhyuk Hyun, Euntai Kim|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2007.08270)|
+|21|placeholder|__Interactive Video Object Segmentation Using Global and Local Transfer Modules__|Yuk Heo, Yeong Jun Koh, Chang-Su Kim|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2007.08139)|
+|20|placeholder|__URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark__|Seonguk Seo, Joon-Young Lee, and Bohyung Han|__ECCV 2020__|[`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf)|
+|19|placeholder|__Unsupervised Video Object Segmentation with Joint Hotspot Tracking__|Lu Zhang, Jianming Zhang, Zhe Lin, Radomır Mech, Huchuan Lu, You He|__ECCV 2020__|[`paper`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590477.pdf)|
+|18|placeholder|__ScribbleBox: Interactive Annotation Framework for Video Object Segmentation__|Bowen Chen, Huan Ling, Xiaohui Zeng, Gao Jun, Ziyue Xu, Sanja Fidler|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2008.09721)|
+|17|placeholder|__STEm-Seg: Spatio-temporal Embeddings for Instance Segmentation in Videos__|Ali Athar, Sabarinath Mahadevan, Aljoša Ošep, Laura Leal-Taixé, Bastian Leibe|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2003.08429)|
+|16|placeholder|__Fast Video Object Segmentation using Global Context Module__|Yu Li, Zhuoran Shen, Ying Shan|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2001.11243)|
+|15|placeholder|__Efficient Semantic Video Segmentation with Per-frame Inference__|Yifan Liu, Chunhua Shen, Changqian Yu, Jingdong Wang|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2002.11433)|
+|14|placeholder|__Learning Object Depth from Camera Motion and Video Object Segmentation__|Brent A. Griffin, Jason J. Corso|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2007.05676)|
+|13|placeholder|__Collaborative Video Object Segmentation by Foreground-Background Integration__|Zongxin Yang, Yunchao Wei, Yi Yang|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2003.08333)|
+|12|placeholder|__TENet: Triple Excitation Network for Video Salient Object Detection__|Sucheng Ren, Chu Han, Xin Yang, Guoqiang Han, Shengfeng He|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2007.09943)|
+|11|placeholder|__Learning What to Learn for Video Object Segmentation__|Goutam Bhat, Felix Järemo Lawin, Martin Danelljan, Andreas Robinson, Michael Felsberg, Luc Van Gool, Radu Timofte|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2003.11540)|
+|10|placeholder|__Video Object Segmentation with Graph Memory Network__|Xinkai Lu, Wenguan Wang, Martin Danelljan, Tianfei Zhou, Jianbing Shen, Luc Van Gool|__ECCV 2020__|[`paper`](https://arxiv.org/abs/2007.07020)|
 |9|placeholder|__Memory Enhanced Global-Local Aggregation for Video Object Detection__|Yihong Chen, Yue Cao, Han Hu, Liwei Wang|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Memory_Enhanced_Global-Local_Aggregation_for_Video_Object_Detection_CVPR_2020_paper.pdf)|
 |8|placeholder|__Learning Video Object Segmentation from Unlabeled Videos__|Jiyang Yu, Ravi Ramamoorthi|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)|
 |7|placeholder|__Temporally Distributed Networks for Fast Video Semantic Segmentation__|Ping Hu, Fabian Caba, Oliver Wang, Zhe Lin, Stan Sclaroff, Federico Perazzi|__CVPR 2020__|[`paper`](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Temporally_Distributed_Networks_for_Fast_Video_Semantic_Segmentation_CVPR_2020_paper.pdf)|
